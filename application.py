@@ -15,7 +15,7 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE, dbc_css])
 
 app.scripts.config.serve_locally = True
 app.title = 'EmplacandoCars'
-
+server = app.server
 
 
 #Favicon from <div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
