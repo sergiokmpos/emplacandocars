@@ -12,7 +12,6 @@ import dash_bootstrap_components as dbc
 FONT_AWESOME = ["https://use.fontawesome.com/releases/v5.10.2/css/all.css"]
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE, dbc_css])
-server = app.server
 
 app.scripts.config.serve_locally = True
 app.title = 'EmplacandoCars'
