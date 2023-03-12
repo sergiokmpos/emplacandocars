@@ -12,10 +12,11 @@ import dash_bootstrap_components as dbc
 FONT_AWESOME = ["https://use.fontawesome.com/releases/v5.10.2/css/all.css"]
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE, dbc_css])
+server = app.server
+
 app.scripts.config.serve_locally = True
 app.title = 'EmplacandoCars'
 
-server = app.server
 
 
 #Favicon from <div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
