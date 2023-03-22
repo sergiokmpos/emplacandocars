@@ -12,9 +12,9 @@ import dash_bootstrap_components as dbc
 FONT_AWESOME = ["https://use.fontawesome.com/releases/v5.10.2/css/all.css"]
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE, dbc_css])
-
 app.scripts.config.serve_locally = True
 app.title = 'EmplacandoCars'
+
 server = app.server
 
 
@@ -104,7 +104,7 @@ app.layout = dbc.Container(children=[
 
         dbc.NavbarSimple(
             children=[
-                dbc.NavItem(dbc.NavLink("Página Inicial", href="http://127.0.0.1:8050/")),
+                dbc.NavItem(dbc.NavLink("Página Inicial", href="#")),
                 dbc.DropdownMenu(
                     children=[
                         dbc.DropdownMenuItem("Mais...", header=True),
@@ -128,8 +128,8 @@ app.layout = dbc.Container(children=[
                 ]),
             ],
 
-            brand="Dashboard de emplacamentos de veículos Brasil",
-            brand_href="http://127.0.0.1:8050/",
+            brand="🚘 Emplacamentos Brasil 🏭",
+            brand_href="#",
             color="primary",
             dark=True,
             fixed=True,
@@ -142,25 +142,55 @@ app.layout = dbc.Container(children=[
     dbc.Row([
 
         dbc.Col([
-                dbc.Card([
-                    dbc.CardBody([
-                        dbc.Row([
-                            dbc.Col([
-                                html.I(className='fa fa-database', style={'font-size': '250%'})
-                            ], sm=2, align="center"),
-                            dbc.Col([
-                                html.Legend("EMPLACANDOCARS.COM")
-                            ], sm=8),
-                            dbc.Col([
-                                html.I(className='fa fa-car', style={'font-size': '250%'})
-                            ], sm=2, align="center")
-                        ]),
-                    ])
-                ],style={'margin-bottom':'7px'}),
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row(html.H5('📅 Mes'), ),
+                    dbc.Row([
+                        dbc.Col([dcc.Dropdown([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], value=0, id='MesDropdown',
+                                              className='dbc', clearable=False)]),
+                        dbc.Col([html.H5(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},
+                                         className='dbc')])
+                    ]),
+                    # dbc.Row(dcc.Dropdown([ '2021','2022','2023',], value='Ultimo Ano',className='dbc')),
+                    dbc.Col([dcc.Dropdown(['Ultimo Ano'], 'Ultimo Ano', id='AnoDropdown', className='dbc',
+                                          disabled=True, clearable=False)]),
+
+                ]),
+            ], style={'margin-bottom': '7px'}),
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row(html.H5('🏭 Fabricante'), ),
+                    dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
+                                                  className='dbc', clearable=False)])),  # optionHeight=75
+
+                ]),
+            ], style={'margin-bottom': '7px'}),
+            dbc.Card([
+                dbc.Row(html.H5('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
+                dcc.Graph(id='graph8', className='dbc', config=config_graph)
+            ]),  # ,style=tab_card
+        ], sm=12, lg=2),
+
+        dbc.Col([
+                #dbc.Card([
+                  #  dbc.CardBody([
+                        #dbc.Row([
+                        #    dbc.Col([
+                        #        html.I(className='fa fa-car', style={'font-size': '250%'})
+                       #     ], sm=3, align="center"),
+                       #     dbc.Col([
+                      #          html.H4("EMPLACANDOCAR")
+                     #       ], sm=9),
+                     #   ]),
+                   # ])
+              #  ],style={'margin-bottom':'7px'}),
             dbc.Row([
                 dbc.Col([
                     dbc.Card([
+
                         dbc.CardBody([
+                            dbc.Row(html.H5('Volume 12 Meses - Automoveis'),
+                                    style={'margin-top': '0px', 'text-align': 'center'}),
                             dcc.Graph(id='graph3', className='dbc', config=config_graph)
                         ])
                     ], style=tab_card)
@@ -170,6 +200,8 @@ app.layout = dbc.Container(children=[
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
+                            dbc.Row(html.H5('Volume 12 Meses - Comerciais Leves'),
+                                    style={'margin-top': '0px', 'text-align': 'center'}),
                             dcc.Graph(id='graph4', className='dbc', config=config_graph)
                         ])
                     ], style=tab_card)
@@ -205,32 +237,7 @@ app.layout = dbc.Container(children=[
             ], style=tab_card)
         ], sm=12, lg=7),
 
-dbc.Col([
-            dbc.Card([
-                dbc.CardBody([
-                    dbc.Row(html.H5('📅 Mes'),),
-                    dbc.Row([
-                        dbc.Col([dcc.Dropdown([0,1,2,3,4,5,6,7,8,9,10,11,12],value=0, id='MesDropdown',  className='dbc', clearable=False )]),
-                        dbc.Col([html.H5(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},className='dbc')])
-                    ]),
-                    #dbc.Row(dcc.Dropdown([ '2021','2022','2023',], value='Ultimo Ano',className='dbc')),
-                    dbc.Col([dcc.Dropdown(['Ultimo Ano'],'Ultimo Ano', id='AnoDropdown',  className='dbc', disabled=True ,clearable=False)]),
 
-                ]),
-            ],style={'margin-bottom':'7px'}),
-            dbc.Card([
-                dbc.CardBody([
-                    dbc.Row(html.H5('🏭 Fabricante'), ),
-                    dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown', className='dbc', clearable=False)])), #optionHeight=75
-
-
-                ]),
-            ], style={'margin-bottom': '7px'}),
-            dbc.Card([
-                dbc.Row(html.H5('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
-                dcc.Graph(id='graph8', className='dbc', config=config_graph)
-            ]),#,style=tab_card
-        ], sm=12, lg=2),
 
     ], className='g-2 my-auto', style={'margin-top': '7px'}),
 
@@ -242,7 +249,7 @@ dbc.Col([
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
-                            dbc.Row(html.H5('Quota de Mercado[Tipo]'),
+                            dbc.Row(html.H5('Market share[Tipo]'),
                                     style={'margin-top': '0px', 'text-align': 'center'}),
                             dbc.Row([dcc.Graph(id='graph9', className='dbc', config=config_graph)])
                         ])
@@ -253,7 +260,7 @@ dbc.Col([
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
-                            dbc.Row([html.H5("🏆 Mais vendidos e Porcentagem acima da media por categoria")]),
+                            dbc.Row([html.H5("🏆 Mais vendidos e Porcentagem acima da media por categoria")], style={'margin-top': '0px', 'text-align': 'center'},),
                             dbc.Row([
                             dbc.Col([dcc.Graph(id='graph5', className='dbc', config=config_graph), ],lg=2),
                             dbc.Col([html.Img(id='image_auto', src=vencedor_auto)],lg=4),
@@ -283,7 +290,7 @@ dbc.Col([
 
     html.Footer(dbc.Card(["Todos direitos reservados - EmplacandoCars 2023 "], style={'text-align': 'center', 'margin-top': '7px'})),
 
-], fluid=True, style={'height': '100vh'})
+], fluid=True, style={"maxWidth":"100%", "heitht" :"auto"})
 
 # ======= Callbacks ========== #
 
@@ -388,7 +395,7 @@ def graph3(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig3.update_layout(main_config, height=195, template=template)
+    fig3.update_layout(main_config, height=205, template=template)
     return fig3
 
 
@@ -424,7 +431,7 @@ def graph4(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig4.update_layout(main_config, height=195, template=template)
+    fig4.update_layout(main_config, height=205, template=template)
 
     return fig4
 
