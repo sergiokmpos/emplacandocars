@@ -44,7 +44,7 @@ main_config = {
     "margin": {"l": 10, "r": 10, "t": 10, "b": 10}
 
 }
-config_graph = {"displayModeBar": False, "showTips": False}
+config_graph = {"displayModeBar": False, "showTips": False, 'staticPlot': True}
 
 #Tema =  {'margin-top':'15px', 'margin-left':'30px'}
 EstiloIconeClaro = {'margin-top':'8px', 'margin-left':'30px'}
@@ -67,7 +67,7 @@ df['Mes'] = df['Mes'].astype(int)
 
 # Options for filters
 
-options_month = [{'label': 'Ano todo', 'value': 0}]
+options_month = [{'label': 'Todos', 'value': 0}]
 for i, j in zip(df_original['Mes'].unique(), df['Mes'].unique()):
     options_month.append({'label': i, 'value': j})
 options_month = sorted(options_month, key=lambda x: x['value'])
@@ -92,7 +92,7 @@ for i in df['Fabricante'].unique():
         return mask
 
     def convert_to_text(month):
-        lista1 = ['Ano Todo', 'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro',
+        lista1 = ['Todos', 'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro',
                   'Outubro', 'Novembro', 'Dezembro']
         return lista1[month]
 
@@ -167,29 +167,17 @@ app.layout = dbc.Container(children=[
             ], style={'margin-bottom': '7px'}),
             dbc.Card([
                 dbc.Row(html.H5('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
-                dcc.Graph(id='graph8', className='dbc', config=config_graph)
+                dcc.Graph(id='graph8', className='dbc', config=config_graph, )
             ]),  # ,style=tab_card
         ], sm=12, lg=2),
 
         dbc.Col([
-                #dbc.Card([
-                  #  dbc.CardBody([
-                        #dbc.Row([
-                        #    dbc.Col([
-                        #        html.I(className='fa fa-car', style={'font-size': '250%'})
-                       #     ], sm=3, align="center"),
-                       #     dbc.Col([
-                      #          html.H4("EMPLACANDOCAR")
-                     #       ], sm=9),
-                     #   ]),
-                   # ])
-              #  ],style={'margin-bottom':'7px'}),
             dbc.Row([
                 dbc.Col([
                     dbc.Card([
 
                         dbc.CardBody([
-                            dbc.Row(html.H5('Volume 12 Meses - Automoveis'),
+                            dbc.Row(html.H5('12 Meses - Automoveis'),
                                     style={'margin-top': '0px', 'text-align': 'center'}),
                             dcc.Graph(id='graph3', className='dbc', config=config_graph)
                         ])
@@ -200,7 +188,7 @@ app.layout = dbc.Container(children=[
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
-                            dbc.Row(html.H5('Volume 12 Meses - Comerciais Leves'),
+                            dbc.Row(html.H5('12 Meses - Comerciais Leves'),
                                     style={'margin-top': '0px', 'text-align': 'center'}),
                             dcc.Graph(id='graph4', className='dbc', config=config_graph)
                         ])
@@ -217,22 +205,20 @@ app.layout = dbc.Container(children=[
                             dcc.Graph(id='graph1', className='dbc', config=config_graph)
                         ], sm=12, md=9),
                         dbc.Col([
-                            dbc.Row(html.H5('Automoveis[Modelo]'), style={'text-align': 'center'}),
+                            dbc.Row(html.H5('Automoveis'), style={'text-align': 'center'}),
                             dcc.Graph(id='graph2', className='dbc', config=config_graph)
                         ], sm=12, lg=3),
                     ]),
 
                     dbc.Row([
                         dbc.Col([
-                            dbc.Row(html.H5('Comercial Leve[Modelo]'), style={'text-align': 'center'}),
+                            dbc.Row(html.H5('Comercial Leve'), style={'text-align': 'center'}),
                             dcc.Graph(id='graph2_2', className='dbc', config=config_graph)
                         ], sm=12, lg=3),
                         dbc.Col([
                             dcc.Graph(id='graph1_2', className='dbc', config=config_graph)
                         ], sm=12, md=9),
                     ]),
-
-
                 ])
             ], style=tab_card)
         ], sm=12, lg=7),
@@ -260,7 +246,7 @@ app.layout = dbc.Container(children=[
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
-                            dbc.Row([html.H5("🏆 Mais vendidos e Porcentagem acima da media por categoria")], style={'margin-top': '0px', 'text-align': 'center'},),
+                            dbc.Row([html.H5("🏆 Mais vendidos e Porcentagem acima da média por categoria")], style={'margin-top': '0px', 'text-align': 'center'},),
                             dbc.Row([
                             dbc.Col([dcc.Graph(id='graph5', className='dbc', config=config_graph), ],lg=2),
                             dbc.Col([html.Img(id='image_auto', src=vencedor_auto)],lg=4),
@@ -386,7 +372,7 @@ def graph3(fabricante, toggle):
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.05, showarrow=False)
-    fig3.add_annotation(text=f"Média : {round((df_3['Emplacados'].mean())/1000)}k",#, 0
+    fig3.add_annotation(text=f"Média : {round((df_3['Emplacados'].mean())/1000,1)}k",#, 0
                         xref="paper", yref="paper",
                         font=dict(
                             size=20,
@@ -422,7 +408,7 @@ def graph4(fabricante, toggle):
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.05, showarrow=False)
-    fig4.add_annotation(text=f"Média : {round((df_4['Emplacados'].mean())/1000)}k",#, 0
+    fig4.add_annotation(text=f"Média : {round((df_4['Emplacados'].mean())/1000,1)}k",#, 0
                         xref="paper", yref="paper",
                         font=dict(
                             size=20,
