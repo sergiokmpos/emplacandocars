@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import pandas as pd
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import ThemeSwitchAIO
-#from application import *
+# from application import *
 import dash
 import dash_bootstrap_components as dbc
 
@@ -17,10 +17,9 @@ app.title = 'EmplacandoCars'
 
 server = app.server
 
+# Favicon from <div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
 
-#Favicon from <div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
-
-#Variaveis
+# Variaveis
 
 template_theme2 = "bootstrap"
 template_theme1 = "slate"
@@ -44,11 +43,12 @@ main_config = {
     "margin": {"l": 10, "r": 10, "t": 10, "b": 10}
 
 }
-config_graph = {"displayModeBar": False, "showTips": False, 'staticPlot': True}
+config_graph = {"displayModeBar": False, "showTips": False}
+config_graph2 = {"displayModeBar": False, "showTips": False, 'staticPlot': True}
 
-#Tema =  {'margin-top':'15px', 'margin-left':'30px'}
-EstiloIconeClaro = {'margin-top':'8px', 'margin-left':'30px'}
-EstiloIconeEscuro = {'margin-top':'15px', 'margin-left':'30px'}
+# Tema =  {'margin-top':'15px', 'margin-left':'30px'}
+EstiloIconeClaro = {'margin-top': '8px', 'margin-left': '30px'}
+EstiloIconeEscuro = {'margin-top': '15px', 'margin-left': '30px'}
 style = EstiloIconeClaro
 
 # ===== Reading n cleaning File ====== #
@@ -73,9 +73,10 @@ for i, j in zip(df_original['Mes'].unique(), df['Mes'].unique()):
 options_month = sorted(options_month, key=lambda x: x['value'])
 options_month = sorted(options_month, key=lambda x: x['value'])
 
-options_Fabricante = ['Todas'] #era 0
+options_Fabricante = ['Todas']  # era 0
 for i in df['Fabricante'].unique():
     options_Fabricante.append(i)
+
 
     def month_filter(month):
         if month == 0:
@@ -84,12 +85,14 @@ for i in df['Fabricante'].unique():
             mask = df['Mes'].isin([month])
         return mask
 
+
     def fabricante_filter(fabricante):
         if fabricante == 'Todas':
             mask = df['Fabricante'].isin(df['Fabricante'].unique())
         else:
             mask = df['Fabricante'].isin([fabricante])
         return mask
+
 
     def convert_to_text(month):
         lista1 = ['Todos', 'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro',
@@ -108,10 +111,13 @@ app.layout = dbc.Container(children=[
                 dbc.DropdownMenu(
                     children=[
                         dbc.DropdownMenuItem("Mais...", header=True),
-                        dbc.DropdownMenuItem("Dados por Fabricante-modelo (Em breve)", href="#", disabled=True  ),
-                        dbc.DropdownMenuItem("Detalhe Mercado (Em breve)", href="http://127.0.0.1:8050/", disabled=True  ),
-                        dbc.DropdownMenuItem("Analytcs & Predictive data (Em breve)" , href="http://127.0.0.1:8050/", disabled=True  ),
-                        dbc.DropdownMenuItem("👤Sobre o Autor [Linked In)", href="https://www.linkedin.com/in/sergiokmpos/"),
+                        dbc.DropdownMenuItem("Dados por Fabricante-modelo (Em breve)", href="#", disabled=True),
+                        dbc.DropdownMenuItem("Detalhe Mercado (Em breve)", href="http://127.0.0.1:8050/",
+                                             disabled=True),
+                        dbc.DropdownMenuItem("Analytcs & Predictive data (Em breve)", href="http://127.0.0.1:8050/",
+                                             disabled=True),
+                        dbc.DropdownMenuItem("👤Sobre o Autor [Linked In)",
+                                             href="https://www.linkedin.com/in/sergiokmpos/"),
                         dbc.DropdownMenuItem("ℹ️Origem dos dados [Fenabrave]", href="https://www.fenabrave.org.br/"),
                     ],
                     nav=True,
@@ -120,10 +126,11 @@ app.layout = dbc.Container(children=[
 
                 ),
 
-                #dbc.Col([' - ']),
+                # dbc.Col([' - ']),
                 dbc.Col([
                     dbc.Row([
-                   ThemeSwitchAIO(aio_id="theme", themes=[url_theme2, url_theme1], icons={"left":"fa fa-sun", "right":"fa fa-moon" }),
+                        ThemeSwitchAIO(aio_id="theme", themes=[url_theme2, url_theme1],
+                                       icons={"left": "fa fa-sun", "right": "fa fa-moon"}),
                     ], style={'margin-left': '30px', 'margin-top': '15px'})
                 ]),
             ],
@@ -133,7 +140,7 @@ app.layout = dbc.Container(children=[
             color="primary",
             dark=True,
             fixed=True,
-        ) ,
+        ),
 
     ),
 
@@ -223,8 +230,6 @@ app.layout = dbc.Container(children=[
             ], style=tab_card)
         ], sm=12, lg=7),
 
-
-
     ], className='g-2 my-auto', style={'margin-top': '7px'}),
 
     # Row 2
@@ -246,26 +251,26 @@ app.layout = dbc.Container(children=[
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
-                            dbc.Row([html.H5("🏆 Mais vendidos e Porcentagem acima da média por categoria")], style={'margin-top': '0px', 'text-align': 'center'},),
+                            dbc.Row([html.H5("🏆 Mais vendidos e Porcentagem acima da média por categoria")],
+                                    style={'margin-top': '0px', 'text-align': 'center'}, ),
                             dbc.Row([
-                            dbc.Col([dcc.Graph(id='graph5', className='dbc', config=config_graph), ],lg=2),
-                            dbc.Col([html.Img(id='image_auto', src=vencedor_auto)],lg=4),
-                            dbc.Col([dcc.Graph(id='graph6', className='dbc', config=config_graph), ],lg=2),
-                            dbc.Col([html.Img(id='image_com', src=vencedor_com)],lg=4),
+                                dbc.Col([dcc.Graph(id='graph5', className='dbc', config=config_graph), ], lg=2),
+                                dbc.Col([html.Img(id='image_auto', src=vencedor_auto)], lg=4),
+                                dbc.Col([dcc.Graph(id='graph6', className='dbc', config=config_graph), ], lg=2),
+                                dbc.Col([html.Img(id='image_com', src=vencedor_com)], lg=4),
 
                             ])
                         ])
                     ], style=tab_card),
                 ], sm=12, lg=6),
 
-
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
-                        dcc.Graph(id='graph10', className='dbc', config=config_graph)
+                            dcc.Graph(id='graph10', className='dbc', config=config_graph)
                         ])
                     ], style=tab_card)
-                ],sm=12, lg=4),
+                ], sm=12, lg=4),
 
             ], className='g-2'),
 
@@ -273,10 +278,11 @@ app.layout = dbc.Container(children=[
 
     ], className='g-2 my-auto', style={'margin-top': '7px'}),
 
+    html.Footer(dbc.Card(["Todos direitos reservados - EmplacandoCars 2023 "],
+                         style={'text-align': 'center', 'margin-top': '7px'})),
 
-    html.Footer(dbc.Card(["Todos direitos reservados - EmplacandoCars 2023 "], style={'text-align': 'center', 'margin-top': '7px'})),
+], fluid=True, style={"maxWidth": "100%", "heitht": "auto"})
 
-], fluid=True, style={"maxWidth":"100%", "heitht" :"auto"})
 
 # ======= Callbacks ========== #
 
@@ -285,14 +291,17 @@ app.layout = dbc.Container(children=[
     Output('graph2', 'figure'),
     Output('month-select', 'children'),
     Input('MesDropdown', 'value'),
+    Input('FabricanteDropdown', 'value'),
     Input(ThemeSwitchAIO.ids.switch("theme"), "value")
 )
-def graph1(month, toggle):
+def graph1(month, fabricante, toggle):
     template = template_theme1 if toggle else template_theme2
 
-    mask = month_filter(month)
+    maskMes = month_filter(month)
+    maskFabricante = fabricante_filter(fabricante)
 
-    df_1 = df_auto.loc[mask]
+    df_1 = df_auto.loc[maskMes]
+    df_1 = df_1 .loc[maskFabricante]
     df_1 = df_1.groupby(['Modelo'])['Emplacados'].sum()
     df_1 = df_1.sort_values(ascending=False)
     df_1 = df_1.groupby('Modelo').head(1).reset_index()
@@ -317,16 +326,19 @@ def graph1(month, toggle):
 @app.callback(
     Output('graph1_2', 'figure'),
     Output('graph2_2', 'figure'),
-    # Output('month-select', 'children'),
     Input('MesDropdown', 'value'),
+    Input('FabricanteDropdown', 'value'),
     Input(ThemeSwitchAIO.ids.switch("theme"), "value")
 )
-def graph1com(month, toggle):
+def graph1com(month, fabricante, toggle):
     template = template_theme1 if toggle else template_theme2
 
-    mask2 = month_filter(month)
+    maskMes = month_filter(month)
+    maskFabricante = fabricante_filter(fabricante)
 
-    df_1_com = df_com.loc[mask2]
+    df_1_com = df_com.loc[maskMes]
+    df_1_com = df_1_com.loc[maskFabricante]
+
     df_1_com = df_1_com.groupby(['Modelo'])['Emplacados'].sum()
     df_1_com = df_1_com.sort_values(ascending=False)
     df_1_com = df_1_com.groupby('Modelo').head(1).reset_index()
@@ -365,14 +377,14 @@ def graph3(fabricante, toggle):
     fig3 = go.Figure(go.Scatter(
         x=df_3['Mes'], y=df_3['Emplacados'], mode='lines', fill='tonexty'))
     fig3.add_annotation(text='🚘 Automoveis por Mes',
-                       xref="paper", yref="paper",
+                        xref="paper", yref="paper",
                         font=dict(
                             size=17,
                             color='gray'
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.05, showarrow=False)
-    fig3.add_annotation(text=f"Média : {round((df_3['Emplacados'].mean())/1000,1)}k",#, 0
+    fig3.add_annotation(text=f"Média : {round((df_3['Emplacados'].mean()) / 1000, 1)}k",  # , 0
                         xref="paper", yref="paper",
                         font=dict(
                             size=20,
@@ -408,7 +420,7 @@ def graph4(fabricante, toggle):
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.05, showarrow=False)
-    fig4.add_annotation(text=f"Média : {round((df_4['Emplacados'].mean())/1000,1)}k",#, 0
+    fig4.add_annotation(text=f"Média : {round((df_4['Emplacados'].mean()) / 1000, 1)}k",  # , 0
                         xref="paper", yref="paper",
                         font=dict(
                             size=20,
@@ -484,7 +496,6 @@ def graph5(month, toggle):
     return fig5, fig6, src, src2
 
 
-
 # Graph 8
 @app.callback(
     Output('graph8', 'figure'),
@@ -554,6 +565,7 @@ def graph10(toggle):
                         template=template, legend={'traceorder': 'normal'}),
     fig10.update_layout(legend=dict(yanchor="top", y=1.0, xanchor="left", x=1.0, ))
     return fig10
+
 
 # Run server
 if __name__ == '__main__':
