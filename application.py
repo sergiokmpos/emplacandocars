@@ -151,27 +151,36 @@ app.layout = dbc.Container(children=[
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
-                    dbc.Row(html.H5('📅 Mes'), ),
+                    dbc.Row([
+                    dbc.Col(dbc.Row(html.H5('📅 Mes'), ),),
+                    dbc.Col(dbc.Col([html.H5(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},
+                                         className='dbc')])),
+                    ]),
                     dbc.Row([
                         dbc.Col([dcc.Dropdown([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], value=0, id='MesDropdown',
                                               className='dbc', clearable=False)]),
-                        dbc.Col([html.H5(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},
-                                         className='dbc')])
-                    ]),
-                    # dbc.Row(dcc.Dropdown([ '2021','2022','2023',], value='Ultimo Ano',className='dbc')),
-                    dbc.Col([dcc.Dropdown(['Ultimo Ano'], 'Ultimo Ano', id='AnoDropdown', className='dbc',
+                        dbc.Col([dcc.Dropdown(['Ultimo Ano'], 'Ultimo Ano', id='AnoDropdown', className='dbc',
                                           disabled=True, clearable=False)]),
 
-                ]),
-            ], style={'margin-bottom': '7px'}),
-            dbc.Card([
-                dbc.CardBody([
+                    ]),
+                    # dbc.Row(dcc.Dropdown([ '2021','2022','2023',], value='Ultimo Ano',className='dbc')),
+
+
+                    dbc.CardBody([
                     dbc.Row(html.H5('🏭 Fabricante'), ),
                     dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
                                                   className='dbc', clearable=False)])),  # optionHeight=75
-
+                    ]),
                 ]),
             ], style={'margin-bottom': '7px'}),
+            #dbc.Card([
+            #    dbc.CardBody([
+            #        dbc.Row(html.H5('🏭 Fabricante'), ),
+            #        dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
+             #                                     className='dbc', clearable=False)])),  # optionHeight=75
+
+            #    ]),
+            #], style={'margin-bottom': '7px'}),
             dbc.Card([
                 dbc.Row(html.H5('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
                 dcc.Graph(id='graph8', className='dbc', config=config_graph, )
@@ -184,24 +193,25 @@ app.layout = dbc.Container(children=[
                     dbc.Card([
 
                         dbc.CardBody([
-                            dbc.Row(html.H5('12 Meses - Automoveis'),
+                            dbc.Row(html.H5('12 Meses - Categorias'),
                                     style={'margin-top': '0px', 'text-align': 'center'}),
-                            dcc.Graph(id='graph3', className='dbc', config=config_graph)
+                            dbc.Row(dcc.Graph(id='graph3', className='dbc', config=config_graph)),
+                            dbc.Row(dcc.Graph(id='graph4', className='dbc', config=config_graph)),
                         ])
                     ], style=tab_card)
                 ])
             ]),
-            dbc.Row([
-                dbc.Col([
-                    dbc.Card([
-                        dbc.CardBody([
-                            dbc.Row(html.H5('12 Meses - Comerciais Leves'),
-                                    style={'margin-top': '0px', 'text-align': 'center'}),
-                            dcc.Graph(id='graph4', className='dbc', config=config_graph)
-                        ])
-                    ], style=tab_card)
-                ])
-            ], className='g-2 my-auto', style={'margin-top': '7px'})
+            #dbc.Row([
+             #   dbc.Col([
+             #       dbc.Card([
+             #           dbc.CardBody([
+             #               dbc.Row(html.H5('12 Meses - Comerciais Leves'),
+              #                      style={'margin-top': '0px', 'text-align': 'center'}),
+                            #dcc.Graph(id='graph4', className='dbc', config=config_graph)
+              #          ])
+              #      ], style=tab_card)
+              #  ])
+            #], className='g-2 my-auto', style={'margin-top': '7px'})
         ], sm=12, lg=3),
 
         dbc.Col([
@@ -255,9 +265,9 @@ app.layout = dbc.Container(children=[
                                     style={'margin-top': '0px', 'text-align': 'center'}, ),
                             dbc.Row([
                                 dbc.Col([dcc.Graph(id='graph5', className='dbc', config=config_graph), ], lg=2),
-                                dbc.Col([html.Img(id='image_auto', src=vencedor_auto)], lg=4),
+                                dbc.Col([html.Img(id='image_auto', src=vencedor_auto)], style={'margin-top': '0px', 'text-align': 'center'}, lg=4),
                                 dbc.Col([dcc.Graph(id='graph6', className='dbc', config=config_graph), ], lg=2),
-                                dbc.Col([html.Img(id='image_com', src=vencedor_com)], lg=4),
+                                dbc.Col([html.Img(id='image_com', src=vencedor_com)], style={'margin-top': '0px', 'text-align': 'center'}, lg=4),
 
                             ])
                         ])
@@ -313,10 +323,10 @@ def graph1(month, fabricante, toggle):
     df_top5_auto.loc[5] = ['Outros', totaloutros]
 
     # Gradicos
-    fig2 = go.Figure(go.Pie(labels=df_top5_auto['Modelo'], values=df_top5_auto['Emplacados'], hole=.5))
-    fig1 = go.Figure(go.Bar(x=df_1['Modelo'], y=df_1['Emplacados'], textposition='auto', text=df_1['Emplacados']))
-    fig1.update_layout(main_config, height=225, template=template)
-    fig2.update_layout(main_config, height=225, template=template, showlegend=False)
+    fig1 = go.Figure(go.Bar(x=df_1['Modelo'], y=df_1['Emplacados'], textposition='inside', text=df_1['Emplacados']))
+    fig2 = go.Figure(go.Pie(labels=df_top5_auto['Modelo'], values=df_top5_auto['Emplacados'], textposition='inside', hole=.5))
+    fig1.update_layout(main_config, height=170, template=template, showlegend=False)
+    fig2.update_layout(main_config, height=170, template=template, showlegend=False)
 
     select = html.H4(convert_to_text(month))
 
@@ -350,11 +360,10 @@ def graph1com(month, fabricante, toggle):
     df_top5_com.loc[5] = ['Outros', totaloutroscom]
 
     # Graficos
-    fig2com = go.Figure(go.Pie(labels=df_top5_com['Modelo'], values=df_top5_com['Emplacados'], hole=.5))
-    fig1com = go.Figure(
-        go.Bar(x=df_1_com['Modelo'], y=df_1_com['Emplacados'], textposition='auto', text=df_1_com['Emplacados']))
-    fig1com.update_layout(main_config, height=225, template=template)
-    fig2com.update_layout(main_config, height=225, template=template, showlegend=False)
+    fig1com = go.Figure(go.Bar(x=df_1_com['Modelo'], y=df_1_com['Emplacados'], textposition='inside', text=df_1_com['Emplacados']))
+    fig2com = go.Figure(go.Pie(labels=df_top5_com['Modelo'], values=df_top5_com['Emplacados'], textposition='inside', hole=.5))
+    fig1com.update_layout(main_config, height=170, template=template, showlegend=False)
+    fig2com.update_layout(main_config, height=170, template=template, showlegend=False)
 
     # select2 = html.H4(convert_to_text(month))
 
@@ -393,7 +402,7 @@ def graph3(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig3.update_layout(main_config, height=205, template=template)
+    fig3.update_layout(main_config, height=185, template=template)
     return fig3
 
 
@@ -429,7 +438,7 @@ def graph4(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig4.update_layout(main_config, height=205, template=template)
+    fig4.update_layout(main_config, height=185, template=template)
 
     return fig4
 
@@ -458,7 +467,7 @@ def graph5(month, toggle):
     fig5.add_trace(go.Indicator(mode='number+delta',
                                 title={
                                     "text": f"<span style='font-size 100%'>{df_5['Modelo'].iloc[0]}"
-                                            f" - 🚘 </span><br>"},
+                                            f"</span><br>"}, #removido icone
                                 # f"<span style='font-size:70%'>Em vendas - em relação a média</span><br>"},
                                 value=df_5['Emplacados'].iloc[0],
                                 number={'prefix': ""},  # R$
@@ -475,7 +484,7 @@ def graph5(month, toggle):
     fig6.add_trace(go.Indicator(mode='number+delta',
                                 title={
                                     "text": f"<span style='font-size 100%'>{df_6['Modelo'].iloc[0]}"
-                                            f" - 🛻 </span><br>"},
+                                            f"</span><br>"},#removido icone
                                 # f"<span style='font-size:70%'>Em vendas - em relação a média</span><br>"},
                                 value=df_6['Emplacados'].iloc[0],
                                 number={'prefix': ""},  # R$
@@ -520,7 +529,7 @@ def graph8(month, toggle):
         text=df_8['Emplacados'],
         insidetextfont=dict(family='Times', size=12)))
 
-    fig8.update_layout(main_config, height=250, template=template)
+    fig8.update_layout(main_config, height=180, template=template)
     return fig8
 
 
