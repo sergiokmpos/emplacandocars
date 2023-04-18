@@ -183,7 +183,7 @@ app.layout = dbc.Container(children=[
                 dbc.Row(html.H5('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
                 dcc.Graph(id='graph8', className='dbc', config=config_graph, )
             ]),  # ,style=tab_card
-        ], sm=12, lg=2),
+        ], sm=12, lg=3),
 
         dbc.Col([
             dbc.Row([
@@ -218,12 +218,14 @@ app.layout = dbc.Container(children=[
                             dcc.Graph(id='graph1', className='dbc', config=config_graph)
                         ], sm=12, md=9),
                         dbc.Col([
+                            dbc.Row(html.Label("Automoveis", style={'text-align': 'center', 'margin-top': '0px'})),
                             dcc.Graph(id='graph2', className='dbc', config=config_graph)
                         ], sm=12, lg=3),
                     ]),
 
                     dbc.Row([
                         dbc.Col([
+                            dbc.Row(html.Label("Comerciais Leves", style={'text-align': 'center', 'margin-top': '0px'})),
                             dcc.Graph(id='graph2_2', className='dbc', config=config_graph)
                         ], sm=12, lg=3),
                         dbc.Col([
@@ -232,7 +234,7 @@ app.layout = dbc.Container(children=[
                     ]),
                 ])
             ], style=tab_card)
-        ], sm=12, lg=7),
+        ], sm=12, lg=6),
 
     ], className='g-2 my-auto', style={'margin-top': '7px'}),
 
@@ -255,7 +257,7 @@ app.layout = dbc.Container(children=[
                 dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
-                            dbc.Row([html.H5("🏆 Mais vendidos e Porcentagem acima da média por categoria")],
+                            dbc.Row([html.H5("🏆 Lideres de Vendas")],
                                     style={'margin-top': '0px', 'text-align': 'center'}, ),
                             dbc.Row([
                                 dbc.Col([dcc.Graph(id='graph5', className='dbc', config=config_graph), ], lg=2),
@@ -327,6 +329,8 @@ def graph1(month, fabricante, toggle):
     return fig1, fig2, select,
 
 
+
+
 @app.callback(
     Output('graph1_2', 'figure'),
     Output('graph2_2', 'figure'),
@@ -396,7 +400,7 @@ def graph3(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig3.update_layout(main_config, height=130, template=template)
+    fig3.update_layout(main_config, height=145, template=template)
     return fig3
 
 
@@ -432,7 +436,7 @@ def graph4(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig4.update_layout(main_config, height=170, template=template)
+    fig4.update_layout(main_config, height=145, template=template)
 
     return fig4
 
@@ -487,8 +491,8 @@ def graph5(month, toggle):
 
     fig5.update_layout(main_config, height=120, template=template)
     fig6.update_layout(main_config, height=120, template=template)
-    fig5.update_layout({"margin": {"l": 0, "r": 0, "t": 20, "b": 0}})
-    fig6.update_layout({"margin": {"l": 0, "r": 0, "t": 20, "b": 0}})
+    fig5.update_layout({"margin": {"l": 0, "r": 0, "t": 0, "b": 0}})
+    fig6.update_layout({"margin": {"l": 0, "r": 0, "t": 0, "b": 0}})
 
     vencedor_auto2 = df_5['Modelo'].iloc[0]
     src = "assets/" + vencedor_auto2 + ".png"
@@ -523,7 +527,7 @@ def graph8(month, toggle):
         text=df_8['Emplacados'],
         insidetextfont=dict(family='Times', size=12)))
 
-    fig8.update_layout(main_config, height=120, template=template)
+    fig8.update_layout(main_config, height=130, template=template)
     return fig8
 
 
