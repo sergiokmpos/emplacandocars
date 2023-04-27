@@ -112,9 +112,9 @@ app.layout = dbc.Container(children=[
                     children=[
                         dbc.DropdownMenuItem("Mais...", header=True),
                         dbc.DropdownMenuItem("Dados por Fabricante-modelo (Em breve)", href="#", disabled=True),
-                        dbc.DropdownMenuItem("Detalhe Mercado (Em breve)", href="http://127.0.0.1:8050/",
+                        dbc.DropdownMenuItem("Detalhe Mercado (Em breve)", href="#",
                                              disabled=True),
-                        dbc.DropdownMenuItem("Analytcs & Predictive data (Em breve)", href="http://127.0.0.1:8050/",
+                        dbc.DropdownMenuItem("Analytcs & Predictive data (Em breve)", href="#",
                                              disabled=True),
                         dbc.DropdownMenuItem("👤Sobre o Autor [Linked In)",
                                              href="https://www.linkedin.com/in/sergiokmpos/"),
@@ -135,7 +135,7 @@ app.layout = dbc.Container(children=[
                 ]),
             ],
 
-            brand="🚘 Emplacamentos Brasil 🏭",
+            brand="🚘 Emplacamentos Brasil-2022/23 🏭",
             brand_href="#",
             color="primary",
             dark=True,
@@ -152,20 +152,23 @@ app.layout = dbc.Container(children=[
             dbc.Card([
                 dbc.CardBody([
                     dbc.Row([
-                    dbc.Col(dbc.Row(html.Label('📅 Mes'), ),),
-                    dbc.Col(dbc.Col([html.Label(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},
-                                         className='dbc')])),
+                    #dbc.Col(dbc.Row(html.Label('📅 Mes'), ),),
+                    #dbc.Col(dbc.Col([html.Label(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},
+                    #                     className='dbc')])),
                     ]),
                     dbc.Row([
+                        dbc.Col(dbc.Row(('📅 Mes'), ),),
                         dbc.Col([dcc.Dropdown([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], value=0, id='MesDropdown',
                                               className='dbc', clearable=False)]),
-                        dbc.Col([dcc.Dropdown(['Ultimo Ano'], 'Ultimo Ano', id='AnoDropdown', className='dbc',
-                                          disabled=True, clearable=False)]),
+                        dbc.Col([html.H1(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},
+                                             className='dbc')]),
+                        #dbc.Col([dcc.Dropdown(['Ultimo Ano'], 'Ultimo Ano', id='AnoDropdown', className='dbc',
+                        #                  disabled=True, clearable=False)]),
 
-                    ]),
+                    ], className='g-2 my-auto',),
                     # dbc.Row(dcc.Dropdown([ '2021','2022','2023',], value='Ultimo Ano',className='dbc')),
                     dbc.Row([
-                    dbc.Col(dbc.Row(html.Label('🏭 Fabricante'),style={'margin-top': '7px'} ),),
+                    dbc.Col(dbc.Row(('🏭 Fabricante'),style={'margin-top': '7px'} ),),
                     dbc.Col(dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
                                                   className='dbc', clearable=False)]))),  # optionHeight=75))
                     ]),
@@ -180,7 +183,7 @@ app.layout = dbc.Container(children=[
             #    ]),
             #], style={'margin-bottom': '7px'}),
             dbc.Card([
-                dbc.Row(html.H5('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
+                dbc.Row(html.Label('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
                 dcc.Graph(id='graph8', className='dbc', config=config_graph, )
             ]),  # ,style=tab_card
         ], sm=12, lg=3),
@@ -527,7 +530,7 @@ def graph8(month, toggle):
         text=df_8['Emplacados'],
         insidetextfont=dict(family='Times', size=12)))
 
-    fig8.update_layout(main_config, height=130, template=template)
+    fig8.update_layout(main_config, height=165, template=template)
     return fig8
 
 
