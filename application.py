@@ -171,9 +171,11 @@ app.layout = dbc.Container(children=[
                     dbc.Col(dbc.Row(('🏭 Fabricante'),style={'margin-top': '7px'} ),),
                     dbc.Col(dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
                                                   className='dbc', clearable=False)]))),  # optionHeight=75))
+                    dbc.Row(dcc.Graph(id='graph3', className='dbc', config=config_graph)),
+                    dbc.Row(dcc.Graph(id='graph4', className='dbc', config=config_graph)),
                     ]),
                 ]),
-            ], style={'margin-bottom': '7px'}),
+            ], style={'margin-bottom': '0px'}),
             #dbc.Card([
             #    dbc.CardBody([
             #        dbc.Row(html.H5('🏭 Fabricante'), ),
@@ -182,10 +184,12 @@ app.layout = dbc.Container(children=[
 
             #    ]),
             #], style={'margin-bottom': '7px'}),
-            dbc.Card([
-                dbc.Row(html.Label('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
-                dcc.Graph(id='graph8', className='dbc', config=config_graph, )
-            ]),  # ,style=tab_card
+            #dbc.Card([
+                #dbc.Row(html.Label('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
+                #dbc.Row(dcc.Graph(id='graph3', className='dbc', config=config_graph)),
+                #dbc.Row(dcc.Graph(id='graph4', className='dbc', config=config_graph)),
+                #dcc.Graph(id='graph8', className='dbc', config=config_graph, )
+            #]),  # ,style=tab_card
         ], sm=12, lg=3),
 
         dbc.Col([
@@ -194,8 +198,10 @@ app.layout = dbc.Container(children=[
                     dbc.Card([
 
                         dbc.CardBody([
-                            dbc.Row(dcc.Graph(id='graph3', className='dbc', config=config_graph)),
-                            dbc.Row(dcc.Graph(id='graph4', className='dbc', config=config_graph)),
+                            #dbc.Row(dcc.Graph(id='graph3', className='dbc', config=config_graph)),
+                            #dbc.Row(dcc.Graph(id='graph4', className='dbc', config=config_graph)),
+                            dbc.Row(html.Label('🥇 Top 5 - Fabricante'), style={'margin-top': '10px', 'text-align': 'center'}),
+                            dcc.Graph(id='graph8', className='dbc', config=config_graph, )
                         ])
                     ], style=tab_card)
                 ])
@@ -287,7 +293,7 @@ app.layout = dbc.Container(children=[
 
     ], className='g-2 my-auto', style={'margin-top': '7px'}),
 
-    html.Footer(dbc.Card(["Todos direitos reservados - EmplacandoCars 2023 "],
+    html.Footer(dbc.Card(["EmplacandoCars 2023  - Dados de Fev/22 a Mar/23"],
                          style={'text-align': 'center', 'margin-top': '7px'})),
 
 ], fluid=True, style={"maxWidth": "100%", "heitht": "auto"})
@@ -389,21 +395,21 @@ def graph3(fabricante, toggle):
     fig3.add_annotation(text='🚘 Automoveis por Mes',
                         xref="paper", yref="paper",
                         font=dict(
-                            size=17,
-                            color='gray'
+                            size=15,
+                            color='gray',
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.05, showarrow=False)
     fig3.add_annotation(text=f"Média : {round((df_3['Emplacados'].mean()) / 1000, 1)}k",  # , 0
                         xref="paper", yref="paper",
                         font=dict(
-                            size=20,
+                            size=10,
                             color='gray'
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig3.update_layout(main_config, height=145, template=template)
+    fig3.update_layout(main_config, height=107, template=template)
     return fig3
 
 
@@ -425,7 +431,7 @@ def graph4(fabricante, toggle):
     fig4.add_annotation(text='🛻 Comerciais leves por Mes',
                         xref="paper", yref="paper",
                         font=dict(
-                            size=17,
+                            size=15,
                             color='gray'
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
@@ -433,13 +439,13 @@ def graph4(fabricante, toggle):
     fig4.add_annotation(text=f"Média : {round((df_4['Emplacados'].mean()) / 1000, 1)}k",  # , 0
                         xref="paper", yref="paper",
                         font=dict(
-                            size=20,
+                            size=10,
                             color='gray'
                         ),
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig4.update_layout(main_config, height=145, template=template)
+    fig4.update_layout(main_config, height=107, template=template)
 
     return fig4
 
@@ -530,7 +536,7 @@ def graph8(month, toggle):
         text=df_8['Emplacados'],
         insidetextfont=dict(family='Times', size=12)))
 
-    fig8.update_layout(main_config, height=165, template=template)
+    fig8.update_layout(main_config, height=260, template=template)
     return fig8
 
 
