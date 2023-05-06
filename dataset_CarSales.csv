@@ -1,201 +1,4 @@
 Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,Mes,Tipo
-6581,Automoveis,FIAT,MOBI,,,,,2022,3,Entrada
-6908,Automoveis,HYUNDAI,HB20,,,,,2022,3,Hatch Pequenos
-6549,Automoveis,VW,T_CROSS,,,,,2022,3,SUV
-5421,Automoveis,GM,ONIX,,,,,2022,3,Hatch Pequenos
-4748,Automoveis,GM,TRACKER,,,,,2022,3,SUV
-4724,Automoveis,JEEP,COMPASS,,,,,2022,3,SUV
-4318,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2022,3,SUV
-4238,Automoveis,HYUNDAI,CRETA,,,,,2022,3,SUV
-4196,Automoveis,TOYOTA,COROLLA,,,,,2022,3,Sedans médios
-4179,Automoveis,GM,ONIX_PLUS,,,,,2022,3,Sedans Compactos
-3789,Automoveis,JEEP,RENEGADE,,,,,2022,3,SUV
-3650,Automoveis,FIAT,PULSE,,,,,2022,3,SUV
-3585,Automoveis,RENAULT,KWID,,,,,2022,3,Entrada
-3154,Automoveis,VW,NIVUS,,,,,2022,3,SUV
-3078,Automoveis,FIAT,ARGO,,,,,2022,3,Hatch Pequenos
-2569,Automoveis,NISSAN,KICKS,,,,,2022,3,SUV
-2307,Automoveis,PEUGEOT,208,,,,,2022,3,Hatch Pequenos
-2304,Automoveis,HYUNDAI,HB20S,,,,,2022,3,Sedans Pequenos
-2085,Automoveis,TOYOTA,YARIS_HB,,,,,2022,3,Hatch Pequenos
-1992,Automoveis,HONDA,CITY,,,,,2022,3,Sedans Compactos
-1933,Automoveis,HONDA,CITY_HATCH,,,,,2022,3,Hatch Pequenos
-1908,Automoveis,RENAULT,DUSTER,,,,,2022,3,SUV
-1835,Automoveis,JEEP,COMMANDER,,,,,2022,3,SUV
-1224,Automoveis,GM,SPIN,,,,,2022,3,Grandcab
-1221,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2022,3,Sedans Compactos
-1201,Automoveis,TOYOTA,HILUX_SW4,,,,,2022,3,SUV
-1193,Automoveis,VW,GOL,,,,,2022,3,Entrada
-1082,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,3,
-883,Automoveis,CITROEN,C4_CACTUS,,,,,2022,3,SUV
-836,Automoveis,NISSAN,VERSA,,,,,2022,3,Sedans Pequenos
-798,Automoveis,RENAULT,LOGAN,,,,,2022,3,Sedans Pequenos
-785,Automoveis,FIAT,CRONOS,,,,,2022,3,Sedans Pequenos
-746,Automoveis,GM,CRUZE_SEDAN,,,,,2022,3,Sedans médios
-708,Automoveis,CAOA_CHERY,TIGGO_3X,,,,,2022,3,
-646,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,3,
-607,Automoveis,RENAULT,SANDERO,,,,,2022,3,Hatch Pequenos
-595,Automoveis,RENAULT,CAPTUR,,,,,2022,3,
-592,Automoveis,HYUNDAI,TUCSON,,,,,2022,3,
-545,Automoveis,BMW,320I,,,,,2022,3,Sedans Grandes
-543,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,3,
-491,Automoveis,VW,POLO,,,,,2022,3,Hatch Pequenos
-466,Automoveis,HONDA,HR-V,,,,,2022,3,SUV
-445,Automoveis,VW,TAOS,,,,,2022,3,SUV
-429,Automoveis,VW,VIRTUS,,,,,2022,3,Sedans Compactos
-395,Automoveis,BMW,X1,,,,,2022,3,
-393,Automoveis,PEUGEOT,2008,,,,,2022,3,SUV
-296,Automoveis,FIAT,SIENA,,,,,2022,3,Sedans Pequenos
-290,Automoveis,MITSUBISHI,PAJERO,,,,,2022,3,SUV
-264,Automoveis,MBENZ,CLASSE_GLB,,,,,2022,3,SUV
-7567,Comercial,FIAT,STRADA,,,,,2022,3,Pick-up's Pequenas
-4442,Comercial,FIAT,TORO,,,,,2022,3,Pick-up's Grandes
-3971,Comercial,TOYOTA,HILUX,,,,,2022,3,Pick-up's Grandes
-2563,Comercial,GM,S10,,,,,2022,3,Pick-up's Grandes
-2017,Comercial,FIAT,FIORINO,,,,,2022,3,
-1095,Comercial,MITSUBISHI,L200,,,,,2022,3,Pick-up's Grandes
-1001,Comercial,FORD,RANGER,,,,,2022,3,Pick-up's Grandes
-661,Comercial,RENAULT,MASTER,,,,,2022,3,Furgões
-618,Comercial,NISSAN,FRONTIER,,,,,2022,3,Pick-up's Grandes
-348,Comercial,FIAT,DUCATO,,,,,2022,3,
-309,Comercial,PEUGEOT,EXPERT,,,,,2022,3,Furgões
-284,Comercial,CITROEN,JUMPY,,,,,2022,3,Furgões
-243,Comercial,VW,AMAROK,,,,,2022,3,Pick-up's Grandes
-219,Comercial,RENAULT,OROCH,,,,,2022,3,Pick-up's Grandes
-216,Comercial,VW,MAN/EXPRESS,,,,,2022,3,
-205,Comercial,IVECO,DAILY 35-150,,,,,2022,3,
-181,Comercial,KIA,K2500,,,,,2022,3,Furgões
-146,Comercial,HYUNDAI,HR,,,,,2022,3,
-98,Comercial,VW,SAVEIRO,,,,,2022,3,Pick-up's Pequenas
-59,Comercial,IVECO,DAILY 30-130,,,,,2022,3,
-59,Comercial,EFFA,V21,,,,,2022,3,
-59,Comercial,RAM,2500,,,,,2022,3,Pick-up's Grandes
-50,Comercial,MBENZ,SPRINTER 314,,,,,2022,3,
-47,Comercial,MBENZ,SPRINTER 416,,,,,2022,3,
-33,Comercial,FORD,MAVERICK,,,,,2022,3,
-28,Comercial,RAM,1500,,,,,2022,3,
-20,Comercial,MBENZ,SPRINTER,,,,,2022,3,
-19,Comercial,PEUGEOT,PARTNER,,,,,2022,3,
-17,Comercial,IVECO,DAILY,,,,,2022,3,Furgões
-17,Comercial,EFFA,V22,,,,,2022,3,
-12,Comercial,PEUGEOT,BOXER,,,,,2022,3,
-10,Comercial,CITROEN,JUMPER,,,,,2022,3,
-8,Comercial,FORD,TRANSIT,,,,,2022,3,Furgões
-6,Comercial,GM,SILVERADO,,,,,2022,3,
-6,Comercial,JAC,v260,,,,,2022,3,
-5,Comercial,FOTON,AUMARK 1039,,,,,2022,3,
-3,Comercial,EFFA,V25,,,,,2022,3,
-3,Comercial,BYD,T3,,,,,2022,3,
-2,Comercial,GM,MONTANA,,,,,2022,3,Pick-up's Pequenas
-1,Comercial,FIAT,CITY,,,,,2022,3,Sedans Compactos
-1,Comercial,FIAT,DOBLO,,,,,2022,3,
-1,Comercial,FORD,F100,,,,,2022,3,
-1,Comercial,FORD,F1000,,,,,2022,3,
-1,Comercial,FORD,F150,,,,,2022,3,
-1,Comercial,FORD,F250,,,,,2022,3,
-1,Comercial,FORD,F75,,,,,2022,3,
-1,Comercial,KIA,UK2500,,,,,2022,3,
-1,Comercial,MBENZ,SPRINTER 313,,,,,2022,3,
-1,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,3,
-5911,Automoveis,FIAT,MOBI,,,,,2022,4,Entrada
-6502,Automoveis,HYUNDAI,HB20,,,,,2022,4,Hatch Pequenos
-5574,Automoveis,GM,ONIX,,,,,2022,4,Hatch Pequenos
-5520,Automoveis,FIAT,PULSE,,,,,2022,4,SUV
-5488,Automoveis,FIAT,ARGO,,,,,2022,4,Hatch Pequenos
-5240,Automoveis,GM,ONIX_PLUS,,,,,2022,4,Sedans Compactos
-4766,Automoveis,JEEP,COMPASS,,,,,2022,4,SUV
-4570,Automoveis,VW,T CROSS,,,,,2022,4,
-4410,Automoveis,GM,TRACKER,,,,,2022,4,SUV
-4255,Automoveis,HYUNDAI,CRETA,,,,,2022,4,SUV
-4165,Automoveis,JEEP,RENEGADE,,,,,2022,4,SUV
-3861,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2022,4,SUV
-3849,Automoveis,RENAULT,KWID,,,,,2022,4,Entrada
-3729,Automoveis,TOYOTA,COROLLA,,,,,2022,4,Sedans médios
-3192,Automoveis,HYUNDAI,HB20S,,,,,2022,4,Sedans Pequenos
-3043,Automoveis,FIAT,CRONOS,,,,,2022,4,Sedans Pequenos
-2644,Automoveis,VW,NIVUS,,,,,2022,4,SUV
-2473,Automoveis,NISSAN,KICKS,,,,,2022,4,SUV
-2324,Automoveis,TOYOTA,YARIS_HB,,,,,2022,4,Hatch Pequenos
-2182,Automoveis,HONDA,CITY,,,,,2022,4,Sedans Compactos
-1894,Automoveis,JEEP,COMMANDER,,,,,2022,4,SUV
-1782,Automoveis,HONDA,CITY_HATCH,,,,,2022,4,Hatch Pequenos
-1736,Automoveis,PEUGEOT,208,,,,,2022,4,Hatch Pequenos
-1611,Automoveis,GM,SPIN,,,,,2022,4,Grandcab
-1405,Automoveis,RENAULT,DUSTER,,,,,2022,4,SUV
-1160,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2022,4,Sedans Compactos
-1149,Automoveis,TOYOTA,HILUX_SW4,,,,,2022,4,SUV
-1115,Automoveis,GM,CRUZE_SEDAN,,,,,2022,4,Sedans médios
-883,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,4,
-859,Automoveis,CAOA_CHERY,TIGGO_5x,,,,,2022,4,
-837,Automoveis,VW,GOL,,,,,2022,4,Entrada
-824,Automoveis,RENAULT,SANDERO,,,,,2022,4,Hatch Pequenos
-717,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,4,
-649,Automoveis,RENAULT,LOGAN,,,,,2022,4,Sedans Pequenos
-570,Automoveis,CITROEN,C4_CACTUS,,,,,2022,4,SUV
-560,Automoveis,NISSAN,VERSA,,,,,2022,4,Sedans Pequenos
-544,Automoveis,CAOA_CHERY,TIGGO_3X,,,,,2022,4,
-433,Automoveis,VW,VIRTUS,,,,,2022,4,Sedans Compactos
-361,Automoveis,BMW,X1,,,,,2022,4,
-329,Automoveis,VW,POLO,,,,,2022,4,Hatch Pequenos
-315,Automoveis,RENAULT,CAPTUR,,,,,2022,4,
-313,Automoveis,BMW,320I,,,,,2022,4,Sedans Grandes
-305,Automoveis,GM,TRAILBLAZER,,,,,2022,4,SUV
-302,Automoveis,VW,VOYAGE,,,,,2022,4,Sedans Pequenos
-289,Automoveis,PEUGEOT,2008,,,,,2022,4,SUV
-243,Automoveis,CAOA_CHERY,ARRIZO_6,,,,,2022,4,
-225,Automoveis,VW,TAOS,,,,,2022,4,SUV
-223,Automoveis,MITSUBISHI,PAJERO,,,,,2022,4,SUV
-217,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2022,4,SUV
-20,Automoveis,FIAT,SIENA,,,,,2022,4,Sedans Pequenos
-7983,Comercial,FIAT,STRADA,,,,,2022,4,Pick-up's Pequenas
-5107,Comercial,FIAT,TORO,,,,,2022,4,Pick-up's Grandes
-4069,Comercial,TOYOTA,HILUX,,,,,2022,4,Pick-up's Grandes
-2736,Comercial,GM,S10,,,,,2022,4,Pick-up's Grandes
-1111,Comercial,FORD,RANGER,,,,,2022,4,Pick-up's Grandes
-1055,Comercial,MITSUBISHI,L200,,,,,2022,4,Pick-up's Grandes
-888,Comercial,FIAT,FIORINO,,,,,2022,4,
-829,Comercial,RENAULT,MASTER,,,,,2022,4,Furgões
-338,Comercial,NISSAN,FRONTIER,,,,,2022,4,Pick-up's Grandes
-297,Comercial,RENAULT,OROCH,,,,,2022,4,Pick-up's Grandes
-35,Comercial,IVECO,DAILY,,,,,2022,4,Furgões
-265,Comercial,FORD,MAVERICK,,,,,2022,4,
-247,Comercial,PEUGEOT,EXPERT,,,,,2022,4,Furgões
-242,Comercial,CITROEN,JUMPY,,,,,2022,4,Furgões
-203,Comercial,KIA,K2500,,,,,2022,4,Furgões
-188,Comercial,FIAT,DUCATO,,,,,2022,4,
-176,Comercial,VW,MAN/EXPRESS,,,,,2022,4,
-101,Comercial,VW,AMAROK,,,,,2022,4,Pick-up's Grandes
-84,Comercial,RAM,2500,,,,,2022,4,Pick-up's Grandes
-81,Comercial,HYUNDAI,HR,,,,,2022,4,
-58,Comercial,MBENZ,SPRINTER_314,,,,,2022,4,
-30,Comercial,IVECO,DAILY,,,,,2022,4,Furgões
-42,Comercial,MBENZ,SPRINTER_416,,,,,2022,4,
-42,Comercial,VW,SAVEIRO,,,,,2022,4,Pick-up's Pequenas
-35,Comercial,EFFA,V21,,,,,2022,4,
-22,Comercial,IVECO,DAILY,,,,,2022,4,Furgões
-21,Comercial,EFFA,V22,,,,,2022,4,
-13,Comercial,PEUGEOT,PARTNER,,,,,2022,4,
-12,Comercial,MBENZ,SPRINTER,,,,,2022,4,
-12,Comercial,BYD,T3,,,,,2022,4,
-11,Comercial,PEUGEOT,BOXER,,,,,2022,4,
-8,Comercial,FOTON,AUMARK 1039,,,,,2022,4,
-6,Comercial,JAC,v260,,,,,2022,4,
-5,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,4,
-4,Comercial,FORD,TRANSIT,,,,,2022,4,Furgões
-4,Comercial,EFFA,V25,,,,,2022,4,
-4,Comercial,RAM,1500,,,,,2022,4,
-3,Comercial,KIA,UK2500,,,,,2022,4,
-2,Comercial,CITROEN,JUMPER,,,,,2022,4,
-2,Comercial,FORD,F150,,,,,2022,4,
-2,Comercial,GM,MONTANA,,,,,2022,4,Pick-up's Pequenas
-2,Comercial,WILLYS,OVERLAND,,,,,2022,4,
-2,Comercial,JAC,IEV_330P,,,,,2022,4,
-2,Comercial,RAM,3500,,,,,2022,4,Pick-up's Grandes
-1,Comercial,GM,C10,,,,,2022,4,
-1,Comercial,MBENZ,SPRINTER_311,,,,,2022,4,
-1,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,4,
-1,Comercial,TOYOTA,TACOMA,,,,,2022,4,
-1,Comercial,VW,KOMBI,,,,,2022,4,
 7493,Automoveis,FIAT,MOBI,,,,,2022,5,Entrada
 6982,Automoveis,GM,ONIX,,,,,2022,5,Hatch Pequenos
 6980,Automoveis,VW,GOL,,,,,2022,5,Entrada
@@ -225,31 +28,31 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1353,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2022,5,Sedans Compactos
 1311,Automoveis,RENAULT,DUSTER,,,,,2022,5,SUV
 1279,Automoveis,TOYOTA,HILUX_SW4,,,,,2022,5,SUV
-1111,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,5,
+1111,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,5,SUV
 1089,Automoveis,RENAULT,SANDERO,,,,,2022,5,Hatch Pequenos
 1085,Automoveis,GM,CRUZE_SEDAN,,,,,2022,5,Sedans médios
 1042,Automoveis,PEUGEOT,2008,,,,,2022,5,SUV
-918,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,5,
+918,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,5,SUV
 765,Automoveis,VW,TAOS,,,,,2022,5,SUV
-632,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,5,
+632,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,5,SUV
 592,Automoveis,VW,VIRTUS,,,,,2022,5,Sedans Compactos
 566,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2022,5,SUV
 532,Automoveis,NISSAN,VERSA,,,,,2022,5,Sedans Pequenos
-474,Automoveis,BMW,X1,,,,,2022,5,
+474,Automoveis,BMW,X1,,,,,2022,5,SUV
 391,Automoveis,VW,POLO,,,,,2022,5,Hatch Pequenos
 370,Automoveis,BMW,320I,,,,,2022,5,Sedans Grandes
 329,Automoveis,RENAULT,LOGAN,,,,,2022,5,Sedans Pequenos
 279,Automoveis,VOLVO,XC60,,,,,2022,5,SUV
-246,Automoveis,CAOA_CHERY,TIGGO_3X,,,,,2022,5,
-240,Automoveis,RENAULT,CAPTUR,,,,,2022,5,
-226,Automoveis,TOYOTA,RAV4,,,,,2022,5,
+246,Automoveis,CAOA_CHERY,TIGGO_3X,,,,,2022,5,SUV
+240,Automoveis,RENAULT,CAPTUR,,,,,2022,5,SUV
+226,Automoveis,TOYOTA,RAV4,,,,,2022,5,SUV
 210,Automoveis,MITSUBISHI,PAJERO,,,,,2022,5,SUV
 209,Automoveis,GM,TRAILBLAZER,,,,,2022,5,SUV
 11532,Comercial,FIAT,STRADA,,,,,2022,5,Pick-up's Pequenas
 5287,Comercial,FIAT,TORO,,,,,2022,5,Pick-up's Grandes
 4145,Comercial,TOYOTA,HILUX,,,,,2022,5,Pick-up's Grandes
 2715,Comercial,GM,S10,,,,,2022,5,Pick-up's Grandes
-2165,Comercial,FIAT,FIORINO,,,,,2022,5,
+2165,Comercial,FIAT,FIORINO,,,,,2022,5,Furgões Pequenos
 1819,Comercial,MITSUBISHI,L200,,,,,2022,5,Pick-up's Grandes
 1456,Comercial,VW,SAVEIRO,,,,,2022,5,Pick-up's Pequenas
 1215,Comercial,FORD,RANGER,,,,,2022,5,Pick-up's Grandes
@@ -258,43 +61,43 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 429,Comercial,PEUGEOT,EXPERT,,,,,2022,5,Furgões
 387,Comercial,CITROEN,JUMPY,,,,,2022,5,Furgões
 385,Comercial,RENAULT,OROCH,,,,,2022,5,Pick-up's Grandes
-247,Comercial,FIAT,DUCATO,,,,,2022,5,
+247,Comercial,FIAT,DUCATO,,,,,2022,5,Outros
 245,Comercial,KIA,K2500,,,,,2022,5,Furgões
-226,Comercial,IVECO,DAILY 35-150,,,,,2022,5,
-189,Comercial,VW,MAN/EXPRESS,,,,,2022,5,
-176,Comercial,FORD,MAVERICK,,,,,2022,5,
+226,Comercial,IVECO,DAILY 35-150,,,,,2022,5,Caminhão
+189,Comercial,VW,MAN/EXPRESS,,,,,2022,5,Caminhão
+176,Comercial,FORD,MAVERICK,,,,,2022,5,Pick-up's Grandes
 98,Comercial,RAM,2500,,,,,2022,5,Pick-up's Grandes
 94,Comercial,RAM,3500,,,,,2022,5,Pick-up's Grandes
-91,Comercial,PEUGEOT,PARTNER,,,,,2022,5,
-79,Comercial,M-BENZ,SPRINTER 314,,,,,2022,5,
-71,Comercial,EFFA,V21,,,,,2022,5,
-57,Comercial,IVECO,DAILY 30-130,,,,,2022,5,
+91,Comercial,PEUGEOT,PARTNER,,,,,2022,5,Furgões Pequenos
+79,Comercial,MBENZ,SPRINTER 314,,,,,2022,5,Furgões
+71,Comercial,EFFA,V21,,,,,2022,5,Caminhão
+57,Comercial,IVECO,DAILY 30-130,,,,,2022,5,Caminhão
 47,Comercial,VW,AMAROK,,,,,2022,5,Pick-up's Grandes
 43,Comercial,IVECO,DAILY,,,,,2022,5,Furgões
-41,Comercial,HYUNDAI,HR,,,,,2022,5,
-39,Comercial,EFFA,V22,,,,,2022,5,
-35,Comercial,RAM,1500,,,,,2022,5,
-24,Comercial,M-BENZ,SPRINTER 416,,,,,2022,5,
-17,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,5,
-12,Comercial,JAC,v260,,,,,2022,5,
-12,Comercial,FOTON,AUMARK 1039,,,,,2022,5,
-11,Comercial,KIA,UK2500,,,,,2022,5,
-10,Comercial,M-BENZ,SPRINTER,,,,,2022,5,
-8,Comercial,BYD,T3,,,,,2022,5,
-7,Comercial,CITROEN,JUMPER,,,,,2022,5,
-7,Comercial,PEUGEOT,BOXER,,,,,2022,5,
+41,Comercial,HYUNDAI,HR,,,,,2022,5,Caminhão
+39,Comercial,EFFA,V22,,,,,2022,5,Caminhão
+35,Comercial,RAM,1500,,,,,2022,5,Pick-up's Grandes
+24,Comercial,MBENZ,SPRINTER 416,,,,,2022,5,Furgões
+17,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,5,Caminhão
+12,Comercial,JAC,v260,,,,,2022,5,Caminhão
+12,Comercial,FOTON,AUMARK 1039,,,,,2022,5,Caminhão
+11,Comercial,KIA,UK2500,,,,,2022,5,Caminhão
+10,Comercial,MBENZ,SPRINTER,,,,,2022,5,Furgões
+8,Comercial,BYD,T3,,,,,2022,5,Furgões
+7,Comercial,CITROEN,JUMPER,,,,,2022,5,Furgões
+7,Comercial,PEUGEOT,BOXER,,,,,2022,5,Furgões
 5,Comercial,FORD,TRANSIT,,,,,2022,5,Furgões
-3,Comercial,GM,SILVERADO,,,,,2022,5,
-3,Comercial,M-BENZ,SPRINTER 315,,,,,2022,5,
-3,Comercial,EFFA,V25,,,,,2022,5,
-2,Comercial,AGRALE,AGRALE MARRUA,,,,,2022,5,
-2,Comercial,FORD,F150,,,,,2022,5,
-2,Comercial,JAC,T8,,,,,2022,5,
-1,Comercial,GM,EL CAMINO,,,,,2022,5,
+3,Comercial,GM,SILVERADO,,,,,2022,5, Pick-up's Grandes
+3,Comercial,MBENZ,SPRINTER 315,,,,,2022,5,Outros
+3,Comercial,EFFA,V25,,,,,2022,5,Outros
+2,Comercial,AGRALE,AGRALE MARRUA,,,,,2022,5,Outros
+2,Comercial,FORD,F150,,,,,2022,5,Outros
+2,Comercial,JAC,T8,,,,,2022,5,Outros
+1,Comercial,GM,EL CAMINO,,,,,2022,5,Outros
 1,Comercial,GM,MONTANA,,,,,2022,5,Pick-up's Pequenas
-1,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,5,
-1,Comercial,TOYOTA,TACOMA,,,,,2022,5,
-1,Comercial,MAHINDRA,HWKCS34,,,,,2022,5,
+1,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,5,Outros
+1,Comercial,TOYOTA,TACOMA,,,,,2022,5,Outros
+1,Comercial,MAHINDRA,HWKCS34,,,,,2022,5,Outros
 9435,Automoveis,VW,GOL,,,,,2022,6,Entrada
 7938,Automoveis,HYUNDAI,HB20,,,,,2022,6,Hatch Pequenos
 6309,Automoveis,VW,T_CROSS,,,,,2022,6,SUV
@@ -326,73 +129,73 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1276,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2022,6,Sedans Compactos
 1169,Automoveis,TOYOTA,HILUX_SW4,,,,,2022,6,SUV
 1062,Automoveis,RENAULT,SANDERO,,,,,2022,6,Hatch Pequenos
-1028,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,6,
+1028,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,6,SUV
 946,Automoveis,GM,CRUZE_SEDAN,,,,,2022,6,Sedans médios
-910,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,6,
+910,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,6,SUV
 895,Automoveis,RENAULT,LOGAN,,,,,2022,6,Sedans Pequenos
 837,Automoveis,VW,TAOS,,,,,2022,6,SUV
-744,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,6,
-470,Automoveis,BMW,X1,,,,,2022,6,
+744,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,6,SUV
+470,Automoveis,BMW,X1,,,,,2022,6,SUV
 415,Automoveis,VW,VIRTUS,,,,,2022,6,Sedans Compactos
 364,Automoveis,NISSAN,VERSA,,,,,2022,6,Sedans Pequenos
 358,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2022,6,SUV
 317,Automoveis,BMW,320I,,,,,2022,6,Sedans Grandes
 248,Automoveis,VW,POLO,,,,,2022,6,Hatch Pequenos
 246,Automoveis,BMW,X3,,,,,2022,6,SUV
-240,Automoveis,HYUNDAI,TUCSON,,,,,2022,6,
-229,Automoveis,FORD,BRONCO,,,,,2022,6,
+240,Automoveis,HYUNDAI,TUCSON,,,,,2022,6,SUV
+229,Automoveis,FORD,BRONCO,,,,,2022,6,SUV
 227,Automoveis,GM,EQUINOX,,,,,2022,6,SUV
-209,Automoveis,RENAULT,CAPTUR,,,,,2022,6,
+209,Automoveis,RENAULT,CAPTUR,,,,,2022,6,SUV
 178,Automoveis,VW,JETTA,,,,,2022,6,Sedans médios
 9840,Comercial,FIAT,STRADA,,,,,2022,6,Pick-up's Pequenas
 4481,Comercial,FIAT,TORO,,,,,2022,6,Pick-up's Grandes
 3845,Comercial,TOYOTA,HILUX,,,,,2022,6,Pick-up's Grandes
 2965,Comercial,GM,S10,,,,,2022,6,Pick-up's Grandes
 1654,Comercial,MITSUBISHI,L200,,,,,2022,6,Pick-up's Grandes
-1572,Comercial,FIAT,FIORINO,,,,,2022,6,
+1572,Comercial,FIAT,FIORINO,,,,,2022,6,Furgões Pequenos
 1335,Comercial,FORD,RANGER,,,,,2022,6,Pick-up's Grandes
 931,Comercial,RENAULT,OROCH,,,,,2022,6,Pick-up's Grandes
 792,Comercial,NISSAN,FRONTIER,,,,,2022,6,Pick-up's Grandes
 755,Comercial,VW,SAVEIRO,,,,,2022,6,Pick-up's Pequenas
 663,Comercial,RENAULT,MASTER,,,,,2022,6,Furgões
-393,Comercial,RENAULT,KANGOO,,,,,2022,6,
+393,Comercial,RENAULT,KANGOO,,,,,2022,6,Furgões
 339,Comercial,PEUGEOT,EXPERT,,,,,2022,6,Furgões
 278,Comercial,CITROEN,JUMPY,,,,,2022,6,Furgões
-243,Comercial,FORD,MAVERICK,,,,,2022,6,
+243,Comercial,FORD,MAVERICK,,,,,2022,6,Pick-up's Grandes
 230,Comercial,KIA,K2500,,,,,2022,6,Furgões
-164,Comercial,IVECO,DAILY 35-150,,,,,2022,6,
-154,Comercial,VW,MAN/EXPRESS,,,,,2022,6,
+164,Comercial,IVECO,DAILY 35-150,,,,,2022,6,Caminhão
+154,Comercial,VW,MAN/EXPRESS,,,,,2022,6,Caminhão
 151,Comercial,RAM,3500,,,,,2022,6,Pick-up's Grandes
-150,Comercial,RAM,1500,,,,,2022,6,
-131,Comercial,FIAT,DUCATO,,,,,2022,6,
+150,Comercial,RAM,1500,,,,,2022,6,Pick-up's Grandes
+131,Comercial,FIAT,DUCATO,,,,,2022,6,Outros
 108,Comercial,FORD,TRANSIT,,,,,2022,6,Furgões
-91,Comercial,PEUGEOT,PARTNER,,,,,2022,6,
-85,Comercial,M-BENZ,SPRINTER 314,,,,,2022,6,
+91,Comercial,PEUGEOT,PARTNER,,,,,2022,6,Furgões Pequenos
+85,Comercial,MBENZ,SPRINTER 314,,,,,2022,6,Furgões
 83,Comercial,VW,AMAROK,,,,,2022,6,Pick-up's Grandes
-78,Comercial,IVECO,DAILY 30-130,,,,,2022,6,
+78,Comercial,IVECO,DAILY 30-130,,,,,2022,6,Caminhão
 70,Comercial,IVECO,DAILY,,,,,2022,6,Furgões
-70,Comercial,EFFA,V21,,,,,2022,6,
+70,Comercial,EFFA,V21,,,,,2022,6,Caminhão
 52,Comercial,RAM,2500,,,,,2022,6,Pick-up's Grandes
-35,Comercial,HYUNDAI,HR,,,,,2022,6,
-18,Comercial,M-BENZ,SPRINTER,,,,,2022,6,
-16,Comercial,PEUGEOT,BOXER,,,,,2022,6,
-14,Comercial,EFFA,V22,,,,,2022,6,
-12,Comercial,CITROEN,JUMPER,,,,,2022,6,
+35,Comercial,HYUNDAI,HR,,,,,2022,6,Caminhão
+18,Comercial,MBENZ,SPRINTER,,,,,2022,6,Furgões
+16,Comercial,PEUGEOT,BOXER,,,,,2022,6,Furgões
+14,Comercial,EFFA,V22,,,,,2022,6,Caminhão
+12,Comercial,CITROEN,JUMPER,,,,,2022,6,Furgões
 12,Comercial,FIAT,SCUDO,,,,,2022,6,Furgões
-11,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,6,
-8,Comercial,M-BENZ,SPRINTER 315,,,,,2022,6,
-8,Comercial,M-BENZ,SPRINTER 416,,,,,2022,6,
-7,Comercial,JAC,v260,,,,,2022,6,
-7,Comercial,FOTON,AUMARK 1039,,,,,2022,6,
-5,Comercial,KIA,UK2500,,,,,2022,6,
+11,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,6,Caminhão
+8,Comercial,MBENZ,SPRINTER 315,,,,,2022,6,Furgões
+8,Comercial,MBENZ,SPRINTER 416,,,,,2022,6,Furgões
+7,Comercial,JAC,v260,,,,,2022,6,Caminhão
+7,Comercial,FOTON,AUMARK 1039,,,,,2022,6,Caminhão
+5,Comercial,KIA,UK2500,,,,,2022,6,Caminhão
 4,Comercial,GM,MONTANA,,,,,2022,6,Pick-up's Pequenas
-3,Comercial,EFFA,V25,,,,,2022,6,
-3,Comercial,JAC,IEV750,,,,,2022,6,
-2,Comercial,FORD,F1000,,,,,2022,6,
-2,Comercial,FORD,F150,,,,,2022,6,
-2,Comercial,EFFA,K01,,,,,2022,6,
-2,Comercial,JAC,IEV 330P,,,,,2022,6,
-1,Comercial,CITROEN,BERLINGO,,,,,2022,6,
+3,Comercial,EFFA,V25,,,,,2022,6,Outros
+3,Comercial,JAC,IEV750,,,,,2022,6,Outros
+2,Comercial,FORD,F1000,,,,,2022,6,Outros
+2,Comercial,FORD,F150,,,,,2022,6,Outros
+2,Comercial,EFFA,K01,,,,,2022,6,Outros
+2,Comercial,JAC,IEV 330P,,,,,2022,6,Outros
+1,Comercial,CITROEN,BERLINGO,,,,,2022,6,Outros
 11925,Automoveis,VW,GOL,,,,,2022,7,Entrada
 8837,Automoveis,GM,ONIX,,,,,2022,7,Hatch Pequenos
 8156,Automoveis,HYUNDAI,HB20,,,,,2022,7,Hatch Pequenos
@@ -427,20 +230,20 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 958,Automoveis,HYUNDAI,HB20S,,,,,2022,7,Sedans Pequenos
 897,Automoveis,RENAULT,SANDERO,,,,,2022,7,Hatch Pequenos
 798,Automoveis,CITROEN,C4_CACTUS,,,,,2022,7,SUV
-741,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,7,
-665,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,7,
-556,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,7,
-406,Automoveis,BMW,X1,,,,,2022,7,
+741,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,7,SUV
+665,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,7,SUV
+556,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,7,SUV
+406,Automoveis,BMW,X1,,,,,2022,7,SUV
 381,Automoveis,VW,VIRTUS,,,,,2022,7,Sedans Compactos
 339,Automoveis,NISSAN,VERSA,,,,,2022,7,Sedans Pequenos
 315,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2022,7,SUV
 279,Automoveis,BMW,320I,,,,,2022,7,Sedans Grandes
 227,Automoveis,PEUGEOT,2008,,,,,2022,7,SUV
-180,Automoveis,RENAULT,CAPTUR,,,,,2022,7,
+180,Automoveis,RENAULT,CAPTUR,,,,,2022,7,SUV
 177,Automoveis,VW,POLO,,,,,2022,7,Hatch Pequenos
 172,Automoveis,BMW,X3,,,,,2022,7,SUV
 163,Automoveis,KIA,SPORTAGE,,,,,2022,7,SUV
-162,Automoveis,FORD,BRONCO,,,,,2022,7,
+162,Automoveis,FORD,BRONCO,,,,,2022,7,SUV
 161,Automoveis,GM,EQUINOX,,,,,2022,7,SUV
 10897,Comercial,FIAT,STRADA,,,,,2022,7,Pick-up's Pequenas
 4333,Comercial,FIAT,TORO,,,,,2022,7,Pick-up's Grandes
@@ -448,7 +251,7 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 2229,Comercial,GM,S10,,,,,2022,7,Pick-up's Grandes
 1794,Comercial,MITSUBISHI,L200,,,,,2022,7,Pick-up's Grandes
 1751,Comercial,VW,SAVEIRO,,,,,2022,7,Pick-up's Pequenas
-1528,Comercial,FIAT,FIORINO,,,,,2022,7,
+1528,Comercial,FIAT,FIORINO,,,,,2022,7,Furgões Pequenos
 1368,Comercial,RENAULT,OROCH,,,,,2022,7,Pick-up's Grandes
 941,Comercial,RENAULT,MASTER,,,,,2022,7,Furgões
 743,Comercial,NISSAN,FRONTIER,,,,,2022,7,Pick-up's Grandes
@@ -457,40 +260,40 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 267,Comercial,RAM,3500,,,,,2022,7,Pick-up's Grandes
 254,Comercial,KIA,K2500,,,,,2022,7,Furgões
 225,Comercial,PEUGEOT,EXPERT,,,,,2022,7,Furgões
-210,Comercial,RAM,1500,,,,,2022,7,
-185,Comercial,VW,MAN/EXPRESS,,,,,2022,7,
-183,Comercial,FORD,MAVERICK,,,,,2022,7,
+210,Comercial,RAM,1500,,,,,2022,7,Pick-up's Grandes
+185,Comercial,VW,MAN/EXPRESS,,,,,2022,7,Caminhão
+183,Comercial,FORD,MAVERICK,,,,,2022,7,Pick-up's Grandes
 165,Comercial,CITROEN,JUMPY,,,,,2022,7,Furgões
 162,Comercial,FORD,TRANSIT,,,,,2022,7,Furgões
-136,Comercial,PEUGEOT,PARTNER,,,,,2022,7,
-113,Comercial,IVECO,DAILY 35-150,,,,,2022,7,
+136,Comercial,PEUGEOT,PARTNER,,,,,2022,7,Furgões Pequenos
+113,Comercial,IVECO,DAILY 35-150,,,,,2022,7,Caminhão
 106,Comercial,IVECO,DAILY,,,,,2022,7,Furgões
-74,Comercial,EFFA,V21,,,,,2022,7,
+74,Comercial,EFFA,V21,,,,,2022,7,Caminhão
 68,Comercial,RAM,2500,,,,,2022,7,Pick-up's Grandes
-62,Comercial,M-BENZ,SPRINTER 314,,,,,2022,7,
+62,Comercial,MBENZ,SPRINTER 314,,,,,2022,7,Furgões
 60,Comercial,FIAT,SCUDO,,,,,2022,7,Furgões
-60,Comercial,M-BENZ,SPRINTER 315,,,,,2022,7,
-54,Comercial,FIAT,DUCATO,,,,,2022,7,
-29,Comercial,IVECO,DAILY 30-130,,,,,2022,7,
-26,Comercial,HYUNDAI,HR,,,,,2022,7,
-20,Comercial,EFFA,V22,,,,,2022,7,
-13,Comercial,CITROEN,JUMPER,,,,,2022,7,
-13,Comercial,PEUGEOT,BOXER,,,,,2022,7,
-12,Comercial,M-BENZ,SPRINTER 416,,,,,2022,7,
-11,Comercial,M-BENZ,SPRINTER,,,,,2022,7,
-10,Comercial,JAC,v260,,,,,2022,7,
-9,Comercial,JEEP,GLADIATOR,,,,,2022,7,
-7,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,7,
-6,Comercial,FOTON,AUMARK 1039,,,,,2022,7,
-6,Comercial,BYD,T3,,,,,2022,7,
-5,Comercial,GM,SILVERADO,,,,,2022,7,
-5,Comercial,RENAULT,KANGOO,,,,,2022,7,
-4,Comercial,KIA,UK2500,,,,,2022,7,
-3,Comercial,EFFA,V25,,,,,2022,7,
-2,Comercial,FORD,F150,,,,,2022,7,
-2,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,7,
-1,Comercial,AGRALE,AGRALE MARRUA,,,,,2022,7,
-1,Comercial,FORD,PAMPA,,,,,2022,7,
+60,Comercial,MBENZ,SPRINTER 315,,,,,2022,7,Furgões
+54,Comercial,FIAT,DUCATO,,,,,2022,7,Outros
+29,Comercial,IVECO,DAILY 30-130,,,,,2022,7,Caminhão
+26,Comercial,HYUNDAI,HR,,,,,2022,7,Caminhão
+20,Comercial,EFFA,V22,,,,,2022,7,Caminhão
+13,Comercial,CITROEN,JUMPER,,,,,2022,7,Furgões
+13,Comercial,PEUGEOT,BOXER,,,,,2022,7,Furgões
+12,Comercial,MBENZ,SPRINTER 416,,,,,2022,7,Furgões
+11,Comercial,MBENZ,SPRINTER,,,,,2022,7,Furgões
+10,Comercial,JAC,v260,,,,,2022,7,Caminhão
+9,Comercial,JEEP,GLADIATOR,,,,,2022,7,Pick-up's Grandes
+7,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,7,Caminhão
+6,Comercial,FOTON,AUMARK 1039,,,,,2022,7,Caminhão
+6,Comercial,BYD,T3,,,,,2022,7,Furgões
+5,Comercial,GM,SILVERADO,,,,,2022,7, Pick-up's Grandes
+5,Comercial,RENAULT,KANGOO,,,,,2022,7,Furgões
+4,Comercial,KIA,UK2500,,,,,2022,7,Outros
+3,Comercial,EFFA,V25,,,,,2022,7,Outros
+2,Comercial,FORD,F150,,,,,2022,7,Outros
+2,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,7,Outros
+1,Comercial,AGRALE,AGRALE MARRUA,,,,,2022,7,Outros
+1,Comercial,FORD,PAMPA,,,,,2022,7,Outros
 11719,Automoveis,VW,GOL,,,,,2022,8,Entrada
 10919,Automoveis,HYUNDAI,HB20,,,,,2022,8,Hatch Pequenos
 9821,Automoveis,GM,ONIX,,,,,2022,8,Hatch Pequenos
@@ -520,15 +323,15 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1515,Automoveis,GM,SPIN,,,,,2022,8,Grandcab
 1504,Automoveis,HONDA,CITY_HATCH,,,,,2022,8,Hatch Pequenos
 1221,Automoveis,TOYOTA,HILUX_SW4,,,,,2022,8,SUV
-1188,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,8,
+1188,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,8,SUV
 1174,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2022,8,Sedans Compactos
 1002,Automoveis,RENAULT,SANDERO,,,,,2022,8,Hatch Pequenos
 997,Automoveis,HYUNDAI,HB20S,,,,,2022,8,Sedans Pequenos
-983,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,8,
+983,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,8,SUV
 889,Automoveis,GM,CRUZE_SEDAN,,,,,2022,8,Sedans médios
-763,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,8,
+763,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,8,SUV
 687,Automoveis,RENAULT,LOGAN,,,,,2022,8,Sedans Pequenos
-487,Automoveis,BMW,X1,,,,,2022,8,
+487,Automoveis,BMW,X1,,,,,2022,8,SUV
 486,Automoveis,HONDA,HR-V,,,,,2022,8,SUV
 400,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2022,8,SUV
 367,Automoveis,VW,VIRTUS,,,,,2022,8,Sedans Compactos
@@ -537,58 +340,58 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 217,Automoveis,BMW,320I,,,,,2022,8,Sedans Grandes
 188,Automoveis,AUDI,Q3,,,,,2022,8,SUV
 170,Automoveis,BMW,X5,,,,,2022,8,SUV
-162,Automoveis,LAND ROVER,DISCOVERY,,,,,2022,8,
-146,Automoveis,TOYOTA,RAV4,,,,,2022,8,
+162,Automoveis,LAND ROVER,DISCOVERY,,,,,2022,8,SUV
+146,Automoveis,TOYOTA,RAV4,,,,,2022,8,SUV
 145,Automoveis,AUDI,Q5,,,,,2022,8,SUV
 14157,Comercial,FIAT,STRADA,,,,,2022,8,Pick-up's Pequenas
 4290,Comercial,FIAT,TORO,,,,,2022,8,Pick-up's Grandes
 3979,Comercial,TOYOTA,HILUX,,,,,2022,8,Pick-up's Grandes
 2836,Comercial,VW,SAVEIRO,,,,,2022,8,Pick-up's Pequenas
 2115,Comercial,GM,S10,,,,,2022,8,Pick-up's Grandes
-1897,Comercial,FIAT,FIORINO,,,,,2022,8,
+1897,Comercial,FIAT,FIORINO,,,,,2022,8,Furgões Pequenos
 1371,Comercial,FORD,RANGER,,,,,2022,8,Pick-up's Grandes
 1284,Comercial,MITSUBISHI,L200,,,,,2022,8,Pick-up's Grandes
 1134,Comercial,RENAULT,OROCH,,,,,2022,8,Pick-up's Grandes
 1062,Comercial,RENAULT,MASTER,,,,,2022,8,Furgões
-897,Comercial,PEUGEOT,PARTNER,,,,,2022,8,
+897,Comercial,PEUGEOT,PARTNER,,,,,2022,8,Furgões Pequenos
 719,Comercial,VW,AMAROK,,,,,2022,8,Pick-up's Grandes
 600,Comercial,NISSAN,FRONTIER,,,,,2022,8,Pick-up's Grandes
 386,Comercial,PEUGEOT,EXPERT,,,,,2022,8,Furgões
 299,Comercial,CITROEN,JUMPY,,,,,2022,8,Furgões
 272,Comercial,KIA,K2500,,,,,2022,8,Furgões
 225,Comercial,RAM,3500,,,,,2022,8,Pick-up's Grandes
-200,Comercial,VW,MAN/EXPRESS,,,,,2022,8,
+200,Comercial,VW,MAN/EXPRESS,,,,,2022,8,Caminhão
 182,Comercial,FORD,TRANSIT,,,,,2022,8,Furgões
-174,Comercial,RAM,1500,,,,,2022,8,
-161,Comercial,FORD,MAVERICK,,,,,2022,8,
+174,Comercial,RAM,1500,,,,,2022,8,Pick-up's Grandes
+161,Comercial,FORD,MAVERICK,,,,,2022,8,Pick-up's Grandes
 154,Comercial,IVECO,DAILY,,,,,2022,8,Furgões
 107,Comercial,RAM,2500,,,,,2022,8,Pick-up's Grandes
 71,Comercial,FIAT,SCUDO,,,,,2022,8,Furgões
-65,Comercial,M-BENZ,SPRINTER 315,,,,,2022,8,
-60,Comercial,EFFA,V21,,,,,2022,8,
-55,Comercial,JEEP,GLADIATOR,,,,,2022,8,
-40,Comercial,FIAT,DUCATO,,,,,2022,8,
-40,Comercial,IVECO,DAILY 35-150,,,,,2022,8,
-35,Comercial,IVECO,DAILY 30-130,,,,,2022,8,
-28,Comercial,EFFA,V22,,,,,2022,8,
-26,Comercial,M-BENZ,SPRINTER 314,,,,,2022,8,
-14,Comercial,HYUNDAI,HR,,,,,2022,8,
-14,Comercial,M-BENZ,SPRINTER,,,,,2022,8,
-13,Comercial,M-BENZ,SPRINTER 416,,,,,2022,8,
-10,Comercial,PEUGEOT,BOXER,,,,,2022,8,
-8,Comercial,CITROEN,JUMPER,,,,,2022,8,
-8,Comercial,JAC,v260,,,,,2022,8,
-7,Comercial,FOTON,AUMARK 1039,,,,,2022,8,
-6,Comercial,JAC,IEV750,,,,,2022,8,
-5,Comercial,KIA,UK2500,,,,,2022,8,
-5,Comercial,EFFA,V25,,,,,2022,8,
-5,Comercial,BYD,T3,,,,,2022,8,
-4,Comercial,EFFA,K01,,,,,2022,8,
-3,Comercial,VW,KOMBI,,,,,2022,8,
-3,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,8,
-2,Comercial,AGRALE,AGRALE MARRUA,,,,,2022,8,
-2,Comercial,GM,D20,,,,,2022,8,
-2,Comercial,GM,SILVERADO,,,,,2022,8,
+65,Comercial,MBENZ,SPRINTER 315,,,,,2022,8,Furgões
+60,Comercial,EFFA,V21,,,,,2022,8,Caminhão
+55,Comercial,JEEP,GLADIATOR,,,,,2022,8,Pick-up's Grandes
+40,Comercial,FIAT,DUCATO,,,,,2022,8,Outros
+40,Comercial,IVECO,DAILY 35-150,,,,,2022,8,Caminhão
+35,Comercial,IVECO,DAILY 30-130,,,,,2022,8,Caminhão
+28,Comercial,EFFA,V22,,,,,2022,8,Caminhão
+26,Comercial,MBENZ,SPRINTER 314,,,,,2022,8,Furgões
+14,Comercial,HYUNDAI,HR,,,,,2022,8,Caminhão
+14,Comercial,MBENZ,SPRINTER,,,,,2022,8,Furgões
+13,Comercial,MBENZ,SPRINTER 416,,,,,2022,8,Furgões
+10,Comercial,PEUGEOT,BOXER,,,,,2022,8,Furgões
+8,Comercial,CITROEN,JUMPER,,,,,2022,8,Furgões
+8,Comercial,JAC,v260,,,,,2022,8,Caminhão
+7,Comercial,FOTON,AUMARK 1039,,,,,2022,8,Caminhão
+6,Comercial,JAC,IEV750,,,,,2022,8,Furgões
+5,Comercial,KIA,UK2500,,,,,2022,8,Caminhão
+5,Comercial,EFFA,V25,,,,,2022,8,Caminhão
+5,Comercial,BYD,T3,,,,,2022,8,Furgões
+4,Comercial,EFFA,K01,,,,,2022,8,Outros
+3,Comercial,VW,KOMBI,,,,,2022,8,Outros
+3,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,8,Outros
+2,Comercial,AGRALE,AGRALE MARRUA,,,,,2022,8,Outros
+2,Comercial,GM,D20,,,,,2022,8,Outros
+2,Comercial,GM,SILVERADO,,,,,2022,8, Pick-up's Grandes
 8836,Automoveis,HYUNDAI,HB20,,,,,2022,9,Hatch Pequenos
 8078,Automoveis,GM,ONIX,,,,,2022,9,Hatch Pequenos
 7781,Automoveis,GM,ONIX_PLUS,,,,,2022,9,Sedans Compactos
@@ -618,32 +421,32 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1742,Automoveis,HONDA,CITY,,,,,2022,9,Sedans Compactos
 1604,Automoveis,CITROEN,C3,,,,,2022,9,Hatch Pequenos
 1599,Automoveis,HYUNDAI,HB20S,,,,,2022,9,Sedans Pequenos
-1593,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,9,
+1593,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,9,SUV
 1452,Automoveis,HONDA,CITY_HATCH,,,,,2022,9,Hatch Pequenos
 1421,Automoveis,VW,TAOS,,,,,2022,9,SUV
 1360,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2022,9,Sedans Compactos
 834,Automoveis,RENAULT,LOGAN,,,,,2022,9,Sedans Pequenos
-823,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,9,
+823,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,9,SUV
 780,Automoveis,GM,CRUZE_SEDAN,,,,,2022,9,Sedans médios
 777,Automoveis,RENAULT,SANDERO,,,,,2022,9,Hatch Pequenos
 758,Automoveis,TOYOTA,HILUX_SW4,,,,,2022,9,SUV
 717,Automoveis,GM,TRAILBLAZER,,,,,2022,9,SUV
-677,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,9,
-596,Automoveis,CAOA_CHERY,ICAR,,,,,2022,9,
+677,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,9,SUV
+596,Automoveis,CAOA_CHERY,ICAR,,,,,2022,9,Hatch Pequenos
 432,Automoveis,FIAT,FASTBACK,,,,,2022,9,SUV
 426,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2022,9,SUV
-346,Automoveis,BMW,X1,,,,,2022,9,
+346,Automoveis,BMW,X1,,,,,2022,9,SUV
 313,Automoveis,VW,VIRTUS,,,,,2022,9,Sedans Compactos
 279,Automoveis,AUDI,Q3,,,,,2022,9,SUV
 278,Automoveis,BMW,320I,,,,,2022,9,Sedans Grandes
 241,Automoveis,AUDI,Q5,,,,,2022,9,SUV
-238,Automoveis,HYUNDAI,IONIQ,,,,,2022,9,
+238,Automoveis,HYUNDAI,IONIQ,,,,,2022,9,Sedans Grandes
 9908,Comercial,FIAT,STRADA,,,,,2022,9,Pick-up's Pequenas
 4608,Comercial,VW,SAVEIRO,,,,,2022,9,Pick-up's Pequenas
 4335,Comercial,FIAT,TORO,,,,,2022,9,Pick-up's Grandes
 4163,Comercial,TOYOTA,HILUX,,,,,2022,9,Pick-up's Grandes
 2408,Comercial,GM,S10,,,,,2022,9,Pick-up's Grandes
-1903,Comercial,FIAT,FIORINO,,,,,2022,9,
+1903,Comercial,FIAT,FIORINO,,,,,2022,9,Furgões Pequenos
 1641,Comercial,RENAULT,OROCH,,,,,2022,9,Pick-up's Grandes
 1429,Comercial,MITSUBISHI,L200,,,,,2022,9,Pick-up's Grandes
 1328,Comercial,FORD,RANGER,,,,,2022,9,Pick-up's Grandes
@@ -656,37 +459,37 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 259,Comercial,FIAT,SCUDO,,,,,2022,9,Furgões
 255,Comercial,CITROEN,JUMPY,,,,,2022,9,Furgões
 247,Comercial,KIA,K2500,,,,,2022,9,Furgões
-218,Comercial,PEUGEOT,PARTNER,,,,,2022,9,
-178,Comercial,VW,MAN/EXPRESS,,,,,2022,9,
+218,Comercial,PEUGEOT,PARTNER,,,,,2022,9,Furgões Pequenos
+178,Comercial,VW,MAN/EXPRESS,,,,,2022,9,Caminhão
 152,Comercial,IVECO,DAILY,,,,,2022,9,Furgões
-148,Comercial,RAM,1500,,,,,2022,9,
+148,Comercial,RAM,1500,,,,,2022,9,Pick-up's Grandes
 89,Comercial,RAM,2500,,,,,2022,9,Pick-up's Grandes
-85,Comercial,EFFA,V21,,,,,2022,9,
-60,Comercial,MBENZ,SPRINTER 315,,,,,2022,9,
-55,Comercial,FORD,MAVERICK,,,,,2022,9,
-35,Comercial,JEEP,GLADIATOR,,,,,2022,9,
-30,Comercial,FIAT,DUCATO,,,,,2022,9,
-24,Comercial,EFFA,V22,,,,,2022,9,
-23,Comercial,IVECO,DAILY 35-150,,,,,2022,9,
-20,Comercial,IVECO,DAILY 30-130,,,,,2022,9,
-18,Comercial,HYUNDAI,HR,,,,,2022,9,
-16,Comercial,MBENZ,SPRINTER 314,,,,,2022,9,
-13,Comercial,MBENZ,SPRINTER,,,,,2022,9,
-9,Comercial,CITROEN,JUMPER,,,,,2022,9,
-7,Comercial,MBENZ,SPRINTER 416,,,,,2022,9,
-6,Comercial,EFFA,V25,,,,,2022,9,
-5,Comercial,PEUGEOT,BOXER,,,,,2022,9,
-5,Comercial,JAC,v260,,,,,2022,9,
-5,Comercial,FOTON,AUMARK 1039,,,,,2022,9,
-4,Comercial,KIA,UK2500,,,,,2022,9,
-4,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,9,
-3,Comercial,FORD,F150,,,,,2022,9,
-3,Comercial,JAC,IEV750,,,,,2022,9,
-2,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,9,
-1,Comercial,ENGESA,EE34,,,,,2022,9,
-1,Comercial,GM,CHEVY,,,,,2022,9,
+85,Comercial,EFFA,V21,,,,,2022,9,Caminhão
+60,Comercial,MBENZ,SPRINTER 315,,,,,2022,9,Furgões
+55,Comercial,FORD,MAVERICK,,,,,2022,9,Pick-up's Grandes
+35,Comercial,JEEP,GLADIATOR,,,,,2022,9,Pick-up's Grandes
+30,Comercial,FIAT,DUCATO,,,,,2022,9,Outros
+24,Comercial,EFFA,V22,,,,,2022,9,Caminhão
+23,Comercial,IVECO,DAILY 35-150,,,,,2022,9,Caminhão
+20,Comercial,IVECO,DAILY 30-130,,,,,2022,9,Caminhão
+18,Comercial,HYUNDAI,HR,,,,,2022,9,Caminhão
+16,Comercial,MBENZ,SPRINTER 314,,,,,2022,9,Furgões
+13,Comercial,MBENZ,SPRINTER,,,,,2022,9,Furgões
+9,Comercial,CITROEN,JUMPER,,,,,2022,9,Furgões
+7,Comercial,MBENZ,SPRINTER 416,,,,,2022,9,Furgões
+6,Comercial,EFFA,V25,,,,,2022,9,Caminhão
+5,Comercial,PEUGEOT,BOXER,,,,,2022,9,Furgões
+5,Comercial,JAC,v260,,,,,2022,9,Caminhão
+5,Comercial,FOTON,AUMARK 1039,,,,,2022,9,Caminhão
+4,Comercial,KIA,UK2500,,,,,2022,9,Outros
+4,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,9,Outros
+3,Comercial,FORD,F150,,,,,2022,9,Outros
+3,Comercial,JAC,IEV750,,,,,2022,9,Outros
+2,Comercial,TOYOTA,BANDEIRANTE,,,,,2022,9,Outros
+1,Comercial,ENGESA,EE34,,,,,2022,9,Outros
+1,Comercial,GM,CHEVY,,,,,2022,9,Outros
 1,Comercial,GM,MONTANA,,,,,2022,9,Pick-up's Pequenas
-1,Comercial,GM,SILVERADO,,,,,2022,9,
+1,Comercial,GM,SILVERADO,,,,,2022,9, Pick-up's Grandes
 9084,Automoveis,HYUNDAI,HB20,,,,,2022,10,Hatch Pequenos
 8496,Automoveis,GM,TRACKER,,,,,2022,10,SUV
 7768,Automoveis,GM,ONIX,,,,,2022,10,Hatch Pequenos
@@ -720,13 +523,13 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1171,Automoveis,CITROEN,C4_CACTUS,,,,,2022,10,SUV
 1137,Automoveis,HONDA,CITY,,,,,2022,10,Sedans Compactos
 989,Automoveis,VW,TAOS,,,,,2022,10,SUV
-978,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,10,
+978,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,10,SUV
 869,Automoveis,TOYOTA,HILUX_SW4,,,,,2022,10,SUV
 740,Automoveis,VW,POLO,,,,,2022,10,Hatch Pequenos
 689,Automoveis,RENAULT,LOGAN,,,,,2022,10,Sedans Pequenos
 588,Automoveis,RENAULT,SANDERO,,,,,2022,10,Hatch Pequenos
-482,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,10,
-456,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,10,
+482,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,10,SUV
+456,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,10,SUV
 454,Automoveis,BMW,320I,,,,,2022,10,Sedans Grandes
 413,Automoveis,GM,CRUZE_SEDAN,,,,,2022,10,Sedans médios
 382,Automoveis,VW,VIRTUS,,,,,2022,10,Sedans Compactos
@@ -741,7 +544,7 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 4447,Comercial,VW,SAVEIRO,,,,,2022,10,Pick-up's Pequenas
 4203,Comercial,TOYOTA,HILUX,,,,,2022,10,Pick-up's Grandes
 2980,Comercial,FIAT,TORO,,,,,2022,10,Pick-up's Grandes
-1905,Comercial,FIAT,FIORINO,,,,,2022,10,
+1905,Comercial,FIAT,FIORINO,,,,,2022,10,Furgões Pequenos
 1625,Comercial,GM,S10,,,,,2022,10,Pick-up's Grandes
 1443,Comercial,RENAULT,OROCH,,,,,2022,10,Pick-up's Grandes
 1403,Comercial,FORD,RANGER,,,,,2022,10,Pick-up's Grandes
@@ -753,39 +556,39 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 267,Comercial,RAM,3500,,,,,2022,10,Pick-up's Grandes
 257,Comercial,KIA,K2500,,,,,2022,10,Furgões
 220,Comercial,FIAT,SCUDO,,,,,2022,10,Furgões
-205,Comercial,PEUGEOT,PARTNER,,,,,2022,10,
-205,Comercial,RAM,1500,,,,,2022,10,
+205,Comercial,PEUGEOT,PARTNER,,,,,2022,10,Furgões Pequenos
+205,Comercial,RAM,1500,,,,,2022,10,Pick-up's Grandes
 157,Comercial,FORD,TRANSIT,,,,,2022,10,Furgões
 129,Comercial,CITROEN,JUMPY,,,,,2022,10,Furgões
-125,Comercial,HYUNDAI,MAN-EXPRESS,,,,,2022,10,
+125,Comercial,VW,MAN/EXPRESS,,,,,2022,10,Caminhão
 121,Comercial,IVECO,DAILY,,,,,2022,10,Furgões
-74,Comercial,EFFA,V21,,,,,2022,10,
-55,Comercial,HYUNDAI,SPRINTER315,,,,,2022,10,
+74,Comercial,EFFA,V21,,,,,2022,10,Caminhão
+55,Comercial,MBENZ,SPRINTER315,,,,,2022,10,Furgões
 41,Comercial,RAM,CLASSIC,,,,,2022,10,Sedans Pequenos
-40,Comercial,FORD,MAVERICK,,,,,2022,10,
-27,Comercial,EFFA,V22,,,,,2022,10,
+40,Comercial,FORD,MAVERICK,,,,,2022,10,Pick-up's Grandes
+27,Comercial,EFFA,V22,,,,,2022,10,Caminhão
 23,Comercial,RAM,2500,,,,,2022,10,Pick-up's Grandes
-21,Comercial,HYUNDAI,HR,,,,,2022,10,
-17,Comercial,JEEP,GLADIATOR,,,,,2022,10,
-15,Comercial,FIAT,DUCATO,,,,,2022,10,
-14,Comercial,IVECO,DAILY 30-130,,,,,2022,10,
-10,Comercial,HYUNDAI,SPRINTER416,,,,,2022,10,
-9,Comercial,MBENZ,SPRINTER,,,,,2022,10,
-9,Comercial,HYUNDAI,SPRINTER314,,,,,2022,10,
-7,Comercial,EFFA,V25,,,,,2022,10,
-5,Comercial,HYUNDAI,ETRANSIT,,,,,2022,10,
-5,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,10,
-4,Comercial,IVECO,DAILY 35-150,,,,,2022,10,
-4,Comercial,JAC,v260,,,,,2022,10,
-3,Comercial,CITROEN,JUMPER,,,,,2022,10,
-2,Comercial,FORD,F250,,,,,2022,10,
-2,Comercial,GM,SILVERADO,,,,,2022,10,
-2,Comercial,PEUGEOT,BOXER,,,,,2022,10,
-2,Comercial,HYUNDAI,AUMARK1039,,,,,2022,10,
-1,Comercial,HYUNDAI,DOBLO,,,,,2022,10,
-1,Comercial,FORD,F75,,,,,2022,10,
-1,Comercial,GMC,SIERRA,,,,,2022,10,
-1,Comercial,TOYOTA,TUNDRA,,,,,2022,10,
+21,Comercial,HYUNDAI,HR,,,,,2022,10,Caminhão
+17,Comercial,JEEP,GLADIATOR,,,,,2022,10,Pick-up's Grandes
+15,Comercial,FIAT,DUCATO,,,,,2022,10,Outros
+14,Comercial,IVECO,DAILY 30-130,,,,,2022,10,Caminhão
+10,Comercial,MBENZ,SPRINTER416,,,,,2022,10,Furgões
+9,Comercial,MBENZ,SPRINTER,,,,,2022,10,Furgões
+9,Comercial,MBENZ,SPRINTER314,,,,,2022,10,Furgões
+7,Comercial,EFFA,V25,,,,,2022,10,Caminhão
+5,Comercial,HYUNDAI,ETRANSIT,,,,,2022,10,Furgões
+5,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,10,Caminhão
+4,Comercial,IVECO,DAILY 35-150,,,,,2022,10,Outros
+4,Comercial,JAC,v260,,,,,2022,10,Outros
+3,Comercial,CITROEN,JUMPER,,,,,2022,10,Outros
+2,Comercial,FORD,F250,,,,,2022,10,Outros
+2,Comercial,GM,SILVERADO,,,,,2022,10, Pick-up's Grandes
+2,Comercial,PEUGEOT,BOXER,,,,,2022,10,Outros
+2,Comercial,HYUNDAI,AUMARK1039,,,,,2022,10,Outros
+1,Comercial,FIAT,DOBLO,,,,,2022,10,Outros
+1,Comercial,FORD,F75,,,,,2022,10,Outros
+1,Comercial,GMC,SIERRA,,,,,2022,10,Outros
+1,Comercial,TOYOTA,TUNDRA,,,,,2022,10,Outros
 9457,Automoveis,HYUNDAI,HB20,,,,,2022,11,Hatch Pequenos
 8724,Automoveis,FIAT,MOBI,,,,,2022,11,Entrada
 8035,Automoveis,GM,ONIX_PLUS,,,,,2022,11,Sedans Compactos
@@ -820,12 +623,12 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1381,Automoveis,HONDA,CITY_HATCH,,,,,2022,11,Hatch Pequenos
 1341,Automoveis,RENAULT,SANDERO,,,,,2022,11,Hatch Pequenos
 1206,Automoveis,RENAULT,LOGAN,,,,,2022,11,Sedans Pequenos
-1177,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,11,
+1177,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,11,SUV
 1149,Automoveis,VW,TAOS,,,,,2022,11,SUV
 1147,Automoveis,HONDA,CITY,,,,,2022,11,Sedans Compactos
 1004,Automoveis,CITROEN,C4_CACTUS,,,,,2022,11,SUV
-776,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,11,
-672,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,11,
+776,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,11,SUV
+672,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,11,SUV
 666,Automoveis,BMW,320I,,,,,2022,11,Sedans Grandes
 600,Automoveis,VW,VIRTUS,,,,,2022,11,Sedans Compactos
 476,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2022,11,SUV
@@ -840,7 +643,7 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 4816,Comercial,TOYOTA,HILUX,,,,,2022,11,Pick-up's Grandes
 3473,Comercial,FIAT,TORO,,,,,2022,11,Pick-up's Grandes
 2975,Comercial,VW,SAVEIRO,,,,,2022,11,Pick-up's Pequenas
-2111,Comercial,FIAT,FIORINO,,,,,2022,11,
+2111,Comercial,FIAT,FIORINO,,,,,2022,11,Furgões Pequenos
 1410,Comercial,RENAULT,OROCH,,,,,2022,11,Pick-up's Grandes
 1404,Comercial,GM,S10,,,,,2022,11,Pick-up's Grandes
 1284,Comercial,FORD,RANGER,,,,,2022,11,Pick-up's Grandes
@@ -852,40 +655,40 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 274,Comercial,FORD,TRANSIT,,,,,2022,11,Furgões
 266,Comercial,KIA,K2500,,,,,2022,11,Furgões
 207,Comercial,RAM,CLASSIC,,,,,2022,11,Sedans Pequenos
-184,Comercial,PEUGEOT,PARTNER,,,,,2022,11,
-178,Comercial,RAM,1500,,,,,2022,11,
+184,Comercial,PEUGEOT,PARTNER,,,,,2022,11,Furgões Pequenos
+178,Comercial,RAM,1500,,,,,2022,11,Pick-up's Grandes
 175,Comercial,FIAT,SCUDO,,,,,2022,11,Furgões
 167,Comercial,CITROEN,JUMPY,,,,,2022,11,Furgões
 155,Comercial,PEUGEOT,EXPERT,,,,,2022,11,Furgões
 139,Comercial,IVECO,DAILY,,,,,2022,11,Furgões
-112,Comercial,VW,MAN/EXPRESS,,,,,2022,11,
-110,Comercial,MBENZ,SPRINTER 315,,,,,2022,11,
-75,Comercial,EFFA,V21,,,,,2022,11,
-62,Comercial,FORD,MAVERICK,,,,,2022,11,
-34,Comercial,EFFA,V22,,,,,2022,11,
+112,Comercial,VW,MAN/EXPRESS,,,,,2022,11,Caminhão
+110,Comercial,MBENZ,SPRINTER 315,,,,,2022,11,Furgões
+75,Comercial,EFFA,V21,,,,,2022,11,Caminhão
+62,Comercial,FORD,MAVERICK,,,,,2022,11,Pick-up's Grandes
+34,Comercial,EFFA,V22,,,,,2022,11,Caminhão
 31,Comercial,RAM,2500,,,,,2022,11,Pick-up's Grandes
-13,Comercial,MBENZ,SPRINTER,,,,,2022,11,
-11,Comercial,MBENZ,SPRINTER 314,,,,,2022,11,
-10,Comercial,IVECO,DAILY 30-130,,,,,2022,11,
-9,Comercial,JAC,IEV750,,,,,2022,11,
-8,Comercial,FIAT,DUCATO,,,,,2022,11,
-8,Comercial,JEEP,GLADIATOR,,,,,2022,11,
-4,Comercial,FORD,F150,,,,,2022,11,
-4,Comercial,MBENZ,SPRINTER 416,,,,,2022,11,
-4,Comercial,JAC,v260,,,,,2022,11,
-4,Comercial,FOTON,AUMARK 1039,,,,,2022,11,
-4,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,11,
-3,Comercial,CITROEN,JUMPER,,,,,2022,11,
-3,Comercial,HYUNDAI,HR,,,,,2022,11,
-2,Comercial,GM,SILVERADO,,,,,2022,11,
-2,Comercial,IVECO,DAILY 35-150,,,,,2022,11,
-2,Comercial,BYD,T3,,,,,2022,11,
-1,Comercial,FORD,F75,,,,,2022,11,
-1,Comercial,FORD,PAMPA,,,,,2022,11,
+13,Comercial,MBENZ,SPRINTER,,,,,2022,11,Furgões
+11,Comercial,MBENZ,SPRINTER 314,,,,,2022,11,Furgões
+10,Comercial,IVECO,DAILY 30-130,,,,,2022,11,Caminhão
+9,Comercial,JAC,IEV750,,,,,2022,11,Furgões
+8,Comercial,FIAT,DUCATO,,,,,2022,11,Outros
+8,Comercial,JEEP,GLADIATOR,,,,,2022,11,Pick-up's Grandes
+4,Comercial,FORD,F150,,,,,2022,11,Outros
+4,Comercial,MBENZ,SPRINTER 416,,,,,2022,11,Outros
+4,Comercial,JAC,v260,,,,,2022,11,Outros
+4,Comercial,FOTON,AUMARK 1039,,,,,2022,11,Outros
+4,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,11,Outros
+3,Comercial,CITROEN,JUMPER,,,,,2022,11,Outros
+3,Comercial,HYUNDAI,HR,,,,,2022,11,Outros
+2,Comercial,GM,SILVERADO,,,,,2022,11, Pick-up's Grandes
+2,Comercial,IVECO,DAILY 35-150,,,,,2022,11,Outros
+2,Comercial,BYD,T3,,,,,2022,11,Outros
+1,Comercial,FORD,F75,,,,,2022,11,Outros
+1,Comercial,FORD,PAMPA,,,,,2022,11,Outros
 1,Comercial,FORD,RANCHERO,,,,,2022,11,Pick-up's Pequenas
 1,Comercial,GM,MONTANA,,,,,2022,11,Pick-up's Pequenas
-1,Comercial,KIA,UK2500,,,,,2022,11,
-1,Comercial,MBENZ,EQV 300,,,,,2022,11,
+1,Comercial,KIA,UK2500,,,,,2022,11,Outros
+1,Comercial,MBENZ,EQV 300,,,,,2022,11,Outros
 9511,Automoveis,GM,ONIX,,,,,2022,12,Hatch Pequenos
 9166,Automoveis,VW,GOL,,,,,2022,12,Entrada
 8283,Automoveis,GM,TRACKER,,,,,2022,12,SUV
@@ -922,12 +725,12 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1365,Automoveis,RENAULT,SANDERO,,,,,2022,12,Hatch Pequenos
 1324,Automoveis,HONDA,CITY,,,,,2022,12,Sedans Compactos
 916,Automoveis,RENAULT,LOGAN,,,,,2022,12,Sedans Pequenos
-880,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,12,
+880,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2022,12,SUV
 796,Automoveis,VW,VIRTUS,,,,,2022,12,Sedans Compactos
 758,Automoveis,CITROEN,C4_CACTUS,,,,,2022,12,SUV
 745,Automoveis,BMW,320I,,,,,2022,12,Sedans Grandes
-715,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,12,
-689,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,12,
+715,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2022,12,SUV
+689,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2022,12,SUV
 482,Automoveis,NISSAN,VERSA,,,,,2022,12,Sedans Pequenos
 356,Automoveis,GM,EQUINOX,,,,,2022,12,SUV
 349,Automoveis,MITSUBISHI,PAJERO,,,,,2022,12,SUV
@@ -940,7 +743,7 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 4296,Comercial,FIAT,TORO,,,,,2022,12,Pick-up's Grandes
 3374,Comercial,GM,S10,,,,,2022,12,Pick-up's Grandes
 3024,Comercial,VW,SAVEIRO,,,,,2022,12,Pick-up's Pequenas
-2019,Comercial,FIAT,FIORINO,,,,,2022,12,
+2019,Comercial,FIAT,FIORINO,,,,,2022,12,Furgões Pequenos
 1594,Comercial,FORD,RANGER,,,,,2022,12,Pick-up's Grandes
 1589,Comercial,MITSUBISHI,L200,,,,,2022,12,Pick-up's Grandes
 1192,Comercial,RENAULT,OROCH,,,,,2022,12,Pick-up's Grandes
@@ -951,39 +754,39 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 452,Comercial,RAM,3500,,,,,2022,12,Pick-up's Grandes
 304,Comercial,RAM,CLASSIC,,,,,2022,12,Sedans Pequenos
 236,Comercial,FIAT,SCUDO,,,,,2022,12,Furgões
-235,Comercial,PEUGEOT,PARTNER,,,,,2022,12,
+235,Comercial,PEUGEOT,PARTNER,,,,,2022,12,Furgões Pequenos
 226,Comercial,KIA,K2500,,,,,2022,12,Furgões
 184,Comercial,PEUGEOT,EXPERT,,,,,2022,12,Furgões
 152,Comercial,CITROEN,JUMPY,,,,,2022,12,Furgões
-150,Comercial,VW,MAN/EXPRESS,,,,,2022,12,
+150,Comercial,VW,MAN/EXPRESS,,,,,2022,12,Caminhão
 138,Comercial,RAM,2500,,,,,2022,12,Pick-up's Grandes
-128,Comercial,FORD,MAVERICK,,,,,2022,12,
+128,Comercial,FORD,MAVERICK,,,,,2022,12,Pick-up's Grandes
 114,Comercial,IVECO,DAILY,,,,,2022,12,Furgões
-112,Comercial,RAM,1500,,,,,2022,12,
-64,Comercial,MBENZ,SPRINTER 315,,,,,2022,12,
-59,Comercial,EFFA,V21,,,,,2022,12,
-21,Comercial,EFFA,V22,,,,,2022,12,
-16,Comercial,FORD,F150,,,,,2022,12,
-11,Comercial,FIAT,DUCATO,,,,,2022,12,
-10,Comercial,IVECO,DAILY 30-130,,,,,2022,12,
-8,Comercial,MBENZ,SPRINTER,,,,,2022,12,
-7,Comercial,EFFA,V25,,,,,2022,12,
-6,Comercial,JEEP,GLADIATOR,,,,,2022,12,
-4,Comercial,HYUNDAI,HR,,,,,2022,12,
-4,Comercial,MBENZ,SPRINTER 314,,,,,2022,12,
-4,Comercial,MBENZ,SPRINTER 416,,,,,2022,12,
-4,Comercial,JAC,v260,,,,,2022,12,
-4,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,12,
-3,Comercial,CITROEN,JUMPER,,,,,2022,12,
-3,Comercial,IVECO,DAILY 35-150,,,,,2022,12,
-3,Comercial,JAC,IEV 330P,,,,,2022,12,
-3,Comercial,FOTON,AUMARK 1039,,,,,2022,12,
-2,Comercial,GM,SILVERADO,,,,,2022,12,
-2,Comercial,IVECO,DAILY 30S13,,,,,2022,12,
-2,Comercial,KIA,UK2500,,,,,2022,12,
-1,Comercial,FORD,F250,,,,,2022,12,
+112,Comercial,RAM,1500,,,,,2022,12,Pick-up's Grandes
+64,Comercial,MBENZ,SPRINTER 315,,,,,2022,12,Furgões
+59,Comercial,EFFA,V21,,,,,2022,12,Caminhão
+21,Comercial,EFFA,V22,,,,,2022,12,Caminhão
+16,Comercial,FORD,F150,,,,,2022,12,Outros
+11,Comercial,FIAT,DUCATO,,,,,2022,12,Outros
+10,Comercial,IVECO,DAILY 30-130,,,,,2022,12,Caminhão
+8,Comercial,MBENZ,SPRINTER,,,,,2022,12,Furgões
+7,Comercial,EFFA,V25,,,,,2022,12,Caminhão
+6,Comercial,JEEP,GLADIATOR,,,,,2022,12,Pick-up's Grandes
+4,Comercial,HYUNDAI,HR,,,,,2022,12,Outros
+4,Comercial,MBENZ,SPRINTER 314,,,,,2022,12,Outros
+4,Comercial,MBENZ,SPRINTER 416,,,,,2022,12,Outros
+4,Comercial,JAC,v260,,,,,2022,12,Outros
+4,Comercial,FOTON,AUMARK 35-14DT,,,,,2022,12,Outros
+3,Comercial,CITROEN,JUMPER,,,,,2022,12,Outros
+3,Comercial,IVECO,DAILY 35-150,,,,,2022,12,Outros
+3,Comercial,JAC,IEV 330P,,,,,2022,12,Outros
+3,Comercial,FOTON,AUMARK 1039,,,,,2022,12,Outros
+2,Comercial,GM,SILVERADO,,,,,2022,12, Pick-up's Grandes
+2,Comercial,IVECO,DAILY 30S13,,,,,2022,12,Outros
+2,Comercial,KIA,UK2500,,,,,2022,12,Outros
+1,Comercial,FORD,F250,,,,,2022,12,Outros
 1,Comercial,FORD,RANCHERO,,,,,2022,12,Pick-up's Pequenas
-1,Comercial,GM,C10,,,,,2022,12,
+1,Comercial,GM,C10,,,,,2022,12,Outros
 7162,Automoveis,GM,ONIX,,,,,2023,1,Hatch Pequenos
 6164,Automoveis,GM,ONIX_PLUS,,,,,2023,1,Sedans Compactos
 5296,Automoveis,GM,TRACKER,,,,,2023,1,SUV
@@ -1018,14 +821,14 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1091,Automoveis,HONDA,CITY,,,,,2023,1,Sedans Compactos
 937,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,1,SUV
 698,Automoveis,HONDA,HR-V,,,,,2023,1,SUV
-588,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2023,1,
+588,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2023,1,SUV
 578,Automoveis,VOLVO,XC60,,,,,2023,1,SUV
 490,Automoveis,VW,VIRTUS,,,,,2023,1,Sedans Compactos
 488,Automoveis,RENAULT,SANDERO,,,,,2023,1,Hatch Pequenos
-372,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2023,1,
+372,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2023,1,SUV
 316,Automoveis,GM,EQUINOX,,,,,2023,1,SUV
 313,Automoveis,NISSAN,VERSA,,,,,2023,1,Sedans Pequenos
-293,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2023,1,
+293,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2023,1,SUV
 286,Automoveis,RENAULT,LOGAN,,,,,2023,1,Sedans Pequenos
 254,Automoveis,BMW,320I,,,,,2023,1,Sedans Grandes
 253,Automoveis,CITROEN,C4_CACTUS,,,,,2023,1,SUV
@@ -1038,7 +841,7 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 3281,Comercial,FIAT,TORO,,,,,2023,1,Pick-up's Grandes
 2714,Comercial,VW,SAVEIRO,,,,,2023,1,Pick-up's Pequenas
 2039,Comercial,GM,S10,,,,,2023,1,Pick-up's Grandes
-1303,Comercial,FIAT,FIORINO,,,,,2023,1,
+1303,Comercial,FIAT,FIORINO,,,,,2023,1,Furgões Pequenos
 977,Comercial,FORD,RANGER,,,,,2023,1,Pick-up's Grandes
 783,Comercial,MITSUBISHI,L200,,,,,2023,1,Pick-up's Grandes
 716,Comercial,RENAULT,OROCH,,,,,2023,1,Pick-up's Grandes
@@ -1053,130 +856,328 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 166,Comercial,RAM,CLASSIC,,,,,2023,1,Sedans Pequenos
 148,Comercial,PEUGEOT,EXPERT,,,,,2023,1,Furgões
 134,Comercial,IVECO,DAILY,,,,,2023,1,Furgões
-125,Comercial,VW,MAN/EXPRESS,,,,,2023,1,
+125,Comercial,VW,MAN/EXPRESS,,,,,2023,1,Caminhão
 107,Comercial,RAM,2500,,,,,2023,1,Pick-up's Grandes
-102,Comercial,PEUGEOT,PARTNER,,,,,2023,1,
+102,Comercial,PEUGEOT,PARTNER,,,,,2023,1,Furgões Pequenos
 90,Comercial,GM,MONTANA,,,,,2023,1,Pick-up's Pequenas
-79,Comercial,FORD,MAVERICK,,,,,2023,1,
-64,Comercial,MBENZ,SPRINTER 315,,,,,2023,1,
-62,Comercial,EFFA,V21,,,,,2023,1,
-50,Comercial,RAM,1500,,,,,2023,1,
-23,Comercial,EFFA,V22,,,,,2023,1,
-16,Comercial,JEEP,GLADIATOR,,,,,2023,1,
-12,Comercial,MBENZ,SPRINTER,,,,,2023,1,
-10,Comercial,FIAT,DUCATO,,,,,2023,1,
-9,Comercial,IVECO,DAILY 30-130,,,,,2023,1,
-7,Comercial,BYD,T3,,,,,2023,1,
-3,Comercial,FORD,F150,,,,,2023,1,
-3,Comercial,GMC,HUMMER EV EDITION 1,,,,,2023,1,
-3,Comercial,MBENZ,SPRINTER 416,,,,,2023,1,
-3,Comercial,TOYOTA,BANDEIRANTE,,,,,2023,1,
-3,Comercial,EFFA,V25,,,,,2023,1,
-3,Comercial,JAC,EJV55,,,,,2023,1,
-3,Comercial,JAC,IEV 330P,,,,,2023,1,
-3,Comercial,JAC,IEV750,,,,,2023,1,
-3,Comercial,FOTON,AUMARK 1039,,,,,2023,1,
-3,Comercial,FOTON,AUMARK 35-14DT,,,,,2023,1,
-2,Comercial,GM,SILVERADO,,,,,2023,1,
-2,Comercial,GMC,SIERRA,,,,,2023,1,
-2,Comercial,HYUNDAI,HR,,,,,2023,1,
-2,Comercial,TOYOTA,TUNDRA,,,,,2023,1,
-1,Comercial,CITROEN,BERLINGO,,,,,2023,1,
-6084,Automoveis,GM,ONIX,,,,,2023,02,
-5125,Automoveis,GM,ONIX_PLUS,,,,,2023,02,
-4606,Automoveis,HYUNDAI,CRETA,,,,,2023,02,
-4536,Automoveis,FIAT,ARGO,,,,,2023,02,
-4430,Automoveis,JEEP,COMPASS,,,,,2023,02,
-4294,Automoveis,VW,T_CROSS,,,,,2023,02,
-4074,Automoveis,FIAT,MOBI,,,,,2023,02,
-3827,Automoveis,RENAULT,KWID,,,,,2023,02,
-3769,Automoveis,GM,TRACKER,,,,,2023,02,
-3762,Automoveis,VW,POLO,,,,,2023,02,
-3495,Automoveis,NISSAN,KICKS,,,,,2023,02,
-3335,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,02,
-3019,Automoveis,JEEP,RENEGADE,,,,,2023,02,
-2992,Automoveis,HYUNDAI,HB20,,,,,2023,02,
-2847,Automoveis,TOYOTA,COROLLA,,,,,2023,02,
-2774,Automoveis,VW,NIVUS,,,,,2023,02,
-2761,Automoveis,FIAT,PULSE,,,,,2023,02,
-2393,Automoveis,FIAT,FASTBACK,,,,,2023,02,
-2152,Automoveis,RENAULT,DUSTER,,,,,2023,02,
-1709,Automoveis,HONDA,HR-V,,,,,2023,02,
-1653,Automoveis,FIAT,CRONOS,,,,,2023,02,
-1577,Automoveis,JEEP,COMMANDER,,,,,2023,02,
-1576,Automoveis,TOYOTA,YARIS_HB,,,,,2023,02,
-1313,Automoveis,CITROEN,C3,,,,,2023,02,
-1309,Automoveis,GM,SPIN,,,,,2023,02,
-1232,Automoveis,HONDA,CITY_HATCH,,,,,2023,02,
-1172,Automoveis,VW,GOL,,,,,2023,02,
-1163,Automoveis,PEUGEOT,208,,,,,2023,02,
-1098,Automoveis,HYUNDAI,HB20S,,,,,2023,02,
-1084,Automoveis,HONDA,CITY,,,,,2023,02,
-995,Automoveis,VW,TAOS,,,,,2023,02,
-915,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,02,
-773,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2023,02,
-614,Automoveis,VW,VIRTUS,,,,,2023,02,
-577,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2023,02,
-392,Automoveis,RENAULT,SANDERO,,,,,2023,02,
-375,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2023,02,
-370,Automoveis,NISSAN,VERSA,,,,,2023,02,
-330,Automoveis,BMW,320I,,,,,2023,02,
-293,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2023,02,
-289,Automoveis,CITROEN,C4_CACTUS,,,,,2023,02,
-269,Automoveis,GM,EQUINOX,,,,,2023,02,
-234,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2023,02,
-198,Automoveis,VOLVO,XC60,,,,,2023,02,
-180,Automoveis,VOLVO,XC40,,,,,2023,02,
-157,Automoveis,HONDA,CIVIC,,,,,2023,02,
-145,Automoveis,BYD,SONG_PLUS,,,,,2023,02,
-124,Automoveis,AUDI,Q5,,,,,2023,02,
-124,Automoveis,MITSUBISHI,PAJERO,,,,,2023,02,
-6837,Comercial,FIAT,STRADA,,,,,2023,02,
-3191,Comercial,FIAT,TORO,,,,,2023,02,
-2814,Comercial,TOYOTA,HILUX,,,,,2023,02,
-2092,Comercial,VW,SAVEIRO,,,,,2023,02,
-1512,Comercial,GM,S10,,,,,2023,02,
-1025,Comercial,FORD,RANGER,,,,,2023,02,
-911,Comercial,FIAT,FIORINO,,,,,2023,02,
-787,Comercial,MITSUBISHI,L200,,,,,2023,02,
-718,Comercial,RENAULT,OROCH,,,,,2023,02,
-482,Comercial,RENAULT,MASTER,,,,,2023,02,
-453,Comercial,VW,AMAROK,,,,,2023,02,
-429,Comercial,NISSAN,FRONTIER,,,,,2023,02,
-350,Comercial,GM,MONTANA,,,,,2023,02,
-248,Comercial,CITROEN,JUMPY,,,,,2023,02,
-239,Comercial,RAM,3500,,,,,2023,02,
-224,Comercial,FIAT,SCUDO,,,,,2023,02,
-222,Comercial,FORD,TRANSIT,,,,,2023,02,
-208,Comercial,KIA,K2500,,,,,2023,02,
-161,Comercial,RAM,CLASSIC,,,,,2023,02,
-146,Comercial,RAM,2500,,,,,2023,02,
-123,Comercial,FORD,MAVERICK,,,,,2023,02,
-122,Comercial,RAM,1500,,,,,2023,02,
-114,Comercial,PEUGEOT,EXPERT,,,,,2023,02,
-112,Comercial,IVECO,DAILY,,,,,2023,02,
-112,Comercial,VW,MAN/EXPRESS,,,,,2023,02,
-85,Comercial,MBENZ,SPRINTER 315,,,,,2023,02,
-65,Comercial,PEUGEOT,PARTNER,,,,,2023,02,
-56,Comercial,EFFA,V21,,,,,2023,02,
-18,Comercial,IVECO,DAILY 30-130,,,,,2023,02,
-16,Comercial,EFFA,V22,,,,,2023,02,
-14,Comercial,PEUGEOT,BOXER,,,,,2023,02,
-11,Comercial,BYD,T3,,,,,2023,02,
-8,Comercial,CITROEN,JUMPER,,,,,2023,02,
-8,Comercial,FIAT,DUCATO,,,,,2023,02,
-6,Comercial,JEEP,GLADIATOR,,,,,2023,02,
-5,Comercial,MBENZ,SPRINTER,,,,,2023,02,
-4,Comercial,MBENZ,SPRINTER 416,,,,,2023,02,
-3,Comercial,EFFA,V25,,,,,2023,02,
-2,Comercial,FORD,F150,,,,,2023,02,
-2,Comercial,VW,KOMBI,,,,,2023,02,
-1,Comercial,FORD,F250,,,,,2023,02,
-1,Comercial,GM,C10,,,,,2023,02,
-1,Comercial,GM,D10,,,,,2023,02,
-1,Comercial,IVECO,DAILY 30S13,,,,,2023,02,
-1,Comercial,IVECO,DAILY 5516,,,,,2023,02,
-1,Comercial,MBENZ,SPRINTER 314,,,,,2023,02,
-1,Comercial,TOYOTA,RIBEIRAUTO,,,,,2023,02,
-1,Comercial,TOYOTA,TUNDRA,,,,,2023,02,
-1,Comercial,JAC,IEV750,,,,,2023,02,
+79,Comercial,FORD,MAVERICK,,,,,2023,1,Pick-up's Grandes
+64,Comercial,MBENZ,SPRINTER 315,,,,,2023,1,Furgões
+62,Comercial,EFFA,V21,,,,,2023,1,Caminhão
+50,Comercial,RAM,1500,,,,,2023,1,Pick-up's Grandes
+23,Comercial,EFFA,V22,,,,,2023,1,Caminhão
+16,Comercial,JEEP,GLADIATOR,,,,,2023,1,Pick-up's Grandes
+12,Comercial,MBENZ,SPRINTER,,,,,2023,1,Furgões
+10,Comercial,FIAT,DUCATO,,,,,2023,1,Outros
+9,Comercial,IVECO,DAILY 30-130,,,,,2023,1,Caminhão
+7,Comercial,BYD,T3,,,,,2023,1,Furgões
+3,Comercial,FORD,F150,,,,,2023,1,Outros
+3,Comercial,GMC,HUMMER EV EDITION 1,,,,,2023,1,Outros
+3,Comercial,MBENZ,SPRINTER 416,,,,,2023,1,Outros
+3,Comercial,TOYOTA,BANDEIRANTE,,,,,2023,1,Outros
+3,Comercial,EFFA,V25,,,,,2023,1,Outros
+3,Comercial,JAC,EJV55,,,,,2023,1,Outros
+3,Comercial,JAC,IEV 330P,,,,,2023,1,Outros
+3,Comercial,JAC,IEV750,,,,,2023,1,Outros
+3,Comercial,FOTON,AUMARK 1039,,,,,2023,1,Outros
+3,Comercial,FOTON,AUMARK 35-14DT,,,,,2023,1,Outros
+2,Comercial,GM,SILVERADO,,,,,2023,1, Pick-up's Grandes
+2,Comercial,GMC,SIERRA,,,,,2023,1,Outros
+2,Comercial,HYUNDAI,HR,,,,,2023,1,Outros
+2,Comercial,TOYOTA,TUNDRA,,,,,2023,1,Outros
+1,Comercial,CITROEN,BERLINGO,,,,,2023,1,Outros
+6084,Automoveis,GM,ONIX,,,,,2023,2,Hatch Pequenos
+5125,Automoveis,GM,ONIX_PLUS,,,,,2023,2,Sedans Compactos
+4606,Automoveis,HYUNDAI,CRETA,,,,,2023,2,SUV
+4536,Automoveis,FIAT,ARGO,,,,,2023,2,Hatch Pequenos
+4430,Automoveis,JEEP,COMPASS,,,,,2023,2,SUV
+4294,Automoveis,VW,T_CROSS,,,,,2023,2,SUV
+4074,Automoveis,FIAT,MOBI,,,,,2023,2,Entrada
+3827,Automoveis,RENAULT,KWID,,,,,2023,2,Entrada
+3769,Automoveis,GM,TRACKER,,,,,2023,2,SUV
+3762,Automoveis,VW,POLO,,,,,2023,2,Hatch Pequenos
+3495,Automoveis,NISSAN,KICKS,,,,,2023,2,SUV
+3335,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,2,SUV
+3019,Automoveis,JEEP,RENEGADE,,,,,2023,2,SUV
+2992,Automoveis,HYUNDAI,HB20,,,,,2023,2,Hatch Pequenos
+2847,Automoveis,TOYOTA,COROLLA,,,,,2023,2,Sedans médios
+2774,Automoveis,VW,NIVUS,,,,,2023,2,SUV
+2761,Automoveis,FIAT,PULSE,,,,,2023,2,SUV
+2393,Automoveis,FIAT,FASTBACK,,,,,2023,2,SUV
+2152,Automoveis,RENAULT,DUSTER,,,,,2023,2,SUV
+1709,Automoveis,HONDA,HR-V,,,,,2023,2,SUV
+1653,Automoveis,FIAT,CRONOS,,,,,2023,2,Sedans Pequenos
+1577,Automoveis,JEEP,COMMANDER,,,,,2023,2,SUV
+1576,Automoveis,TOYOTA,YARIS_HB,,,,,2023,2,Hatch Pequenos
+1313,Automoveis,CITROEN,C3,,,,,2023,2,Hatch Pequenos
+1309,Automoveis,GM,SPIN,,,,,2023,2,Grandcab
+1232,Automoveis,HONDA,CITY_HATCH,,,,,2023,2,Hatch Pequenos
+1172,Automoveis,VW,GOL,,,,,2023,2,Entrada
+1163,Automoveis,PEUGEOT,208,,,,,2023,2,Hatch Pequenos
+1098,Automoveis,HYUNDAI,HB20S,,,,,2023,2,Sedans Pequenos
+1084,Automoveis,HONDA,CITY,,,,,2023,2,Sedans Compactos
+995,Automoveis,VW,TAOS,,,,,2023,2,SUV
+915,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,2,SUV
+773,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2023,2,Sedans Compactos
+614,Automoveis,VW,VIRTUS,,,,,2023,2,Sedans Compactos
+577,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2023,2,SUV
+392,Automoveis,RENAULT,SANDERO,,,,,2023,2,Hatch Pequenos
+375,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2023,2,SUV
+370,Automoveis,NISSAN,VERSA,,,,,2023,2,Sedans Pequenos
+330,Automoveis,BMW,320I,,,,,2023,2,Sedans Grandes
+293,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2023,2,SUV
+289,Automoveis,CITROEN,C4_CACTUS,,,,,2023,2,SUV
+269,Automoveis,GM,EQUINOX,,,,,2023,2,SUV
+234,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2023,2,SUV
+198,Automoveis,VOLVO,XC60,,,,,2023,2,SUV
+180,Automoveis,VOLVO,XC40,,,,,2023,2,SUV
+157,Automoveis,HONDA,CIVIC,,,,,2023,2,Sedans médios
+145,Automoveis,BYD,SONG_PLUS,,,,,2023,2,SUV
+124,Automoveis,AUDI,Q5,,,,,2023,2,SUV
+124,Automoveis,MITSUBISHI,PAJERO,,,,,2023,2,SUV
+6837,Comercial,FIAT,STRADA,,,,,2023,2,Pick-up's Pequenas
+3191,Comercial,FIAT,TORO,,,,,2023,2,Pick-up's Grandes
+2814,Comercial,TOYOTA,HILUX,,,,,2023,2,Pick-up's Grandes
+2092,Comercial,VW,SAVEIRO,,,,,2023,2,Pick-up's Pequenas
+1512,Comercial,GM,S10,,,,,2023,2,Pick-up's Grandes
+1025,Comercial,FORD,RANGER,,,,,2023,2,Pick-up's Grandes
+911,Comercial,FIAT,FIORINO,,,,,2023,2,Furgões Pequenos
+787,Comercial,MITSUBISHI,L200,,,,,2023,2,Pick-up's Grandes
+718,Comercial,RENAULT,OROCH,,,,,2023,2,Pick-up's Grandes
+482,Comercial,RENAULT,MASTER,,,,,2023,2,Furgões
+453,Comercial,VW,AMAROK,,,,,2023,2,Pick-up's Grandes
+429,Comercial,NISSAN,FRONTIER,,,,,2023,2,Pick-up's Grandes
+350,Comercial,GM,MONTANA,,,,,2023,2,Pick-up's Pequenas
+248,Comercial,CITROEN,JUMPY,,,,,2023,2,Furgões
+239,Comercial,RAM,3500,,,,,2023,2,Pick-up's Grandes
+224,Comercial,FIAT,SCUDO,,,,,2023,2,Furgões
+222,Comercial,FORD,TRANSIT,,,,,2023,2,Furgões
+208,Comercial,KIA,K2500,,,,,2023,2,Furgões
+161,Comercial,RAM,CLASSIC,,,,,2023,2,Sedans Pequenos
+146,Comercial,RAM,2500,,,,,2023,2,Pick-up's Grandes
+123,Comercial,FORD,MAVERICK,,,,,2023,2,Pick-up's Grandes
+122,Comercial,RAM,1500,,,,,2023,2,Pick-up's Grandes
+114,Comercial,PEUGEOT,EXPERT,,,,,2023,2,Furgões
+112,Comercial,IVECO,DAILY,,,,,2023,2,Furgões
+112,Comercial,VW,MAN/EXPRESS,,,,,2023,2,Caminhão
+85,Comercial,MBENZ,SPRINTER 315,,,,,2023,2,Furgões
+65,Comercial,PEUGEOT,PARTNER,,,,,2023,2,Furgões Pequenos
+56,Comercial,EFFA,V21,,,,,2023,2,Caminhão
+18,Comercial,IVECO,DAILY 30-130,,,,,2023,2,Caminhão
+16,Comercial,EFFA,V22,,,,,2023,2,Caminhão
+14,Comercial,PEUGEOT,BOXER,,,,,2023,2,Furgões
+11,Comercial,BYD,T3,,,,,2023,2,Furgões
+8,Comercial,CITROEN,JUMPER,,,,,2023,2,Furgões
+8,Comercial,FIAT,DUCATO,,,,,2023,2,Outros
+6,Comercial,JEEP,GLADIATOR,,,,,2023,2,Pick-up's Grandes
+5,Comercial,MBENZ,SPRINTER,,,,,2023,2,Furgões
+4,Comercial,MBENZ,SPRINTER 416,,,,,2023,2,Outros
+3,Comercial,EFFA,V25,,,,,2023,2,Outros
+2,Comercial,FORD,F150,,,,,2023,2,Outros
+2,Comercial,VW,KOMBI,,,,,2023,2,Outros
+1,Comercial,FORD,F250,,,,,2023,2,Outros
+1,Comercial,GM,C10,,,,,2023,2,Outros
+1,Comercial,GM,D10,,,,,2023,2,Outros
+1,Comercial,IVECO,DAILY 30S13,,,,,2023,2,Outros
+1,Comercial,IVECO,DAILY 5516,,,,,2023,2,Outros
+1,Comercial,MBENZ,SPRINTER 314,,,,,2023,2,Outros
+1,Comercial,TOYOTA,RIBEIRAUTO,,,,,2023,2,Outros
+1,Comercial,TOYOTA,TUNDRA,,,,,2023,2,Outros
+1,Comercial,JAC,IEV750,,,,,2023,2,Outros
+8.363,Automoveis,HYUNDAI,HB20,,,,,2023,3,Hatch Pequenos
+8.283,Automoveis,GM,ONIX,,,,,2023,3,Hatch Pequenos
+8197,Automoveis,VW,POLO,,,,,2023,3,Hatch Pequenos
+7.104,Automoveis,GM,ONIX_PLUS,,,,,2023,3,Sedans Compactos
+6.988,Automoveis,JEEP,COMPASS,,,,,2023,3,SUV
+6.704,Automoveis,RENAULT,KWID,,,,,2023,3,Entrada
+6.384,Automoveis,FIAT,MOBI,,,,,2023,3,Entrada
+6.171,Automoveis,FIAT,ARGO,,,,,2023,3,Hatch Pequenos
+5.851,Automoveis,HYUNDAI,CRETA,,,,,2023,3,SUV
+5.431,Automoveis,GM,TRACKER,,,,,2023,3,SUV
+5.420,Automoveis,VW,T_CROSS,,,,,2023,3,SUV
+4.844,Automoveis,NISSAN,KICKS,,,,,2023,3,SUV
+4.674,Automoveis,JEEP,RENEGADE,,,,,2023,3,SUV
+4.511,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,3,SUV
+4.276,Automoveis,FIAT,PULSE,,,,,2023,3,SUV
+4.063,Automoveis,HONDA,HR-V,,,,,2023,3,SUV
+3.865,Automoveis,TOYOTA,COROLLA,,,,,2023,3,Sedans médios
+3.605,Automoveis,FIAT,FASTBACK,,,,,2023,3,SUV
+3.442,Automoveis,FIAT,CRONOS,,,,,2023,3,Sedans Pequenos
+3.210,Automoveis,VW,NIVUS,,,,,2023,3,SUV
+2.522,Automoveis,JEEP,COMMANDER,,,,,2023,3,SUV
+2.101,Automoveis,PEUGEOT,208,,,,,2023,3,Hatch Pequenos
+2.035,Automoveis,CITROEN,C3,,,,,2023,3,Hatch Pequenos
+2.031,Automoveis,RENAULT,DUSTER,,,,,2023,3,SUV
+2.025,Automoveis,HYUNDAI,HB20S,,,,,2023,3,Sedans Pequenos
+2.016,Automoveis,TOYOTA,YARIS_HB,,,,,2023,3,Hatch Pequenos
+1.781,Automoveis,GM,SPIN,,,,,2023,3,Grandcab
+1.562,Automoveis,VW,VIRTUS,,,,,2023,3,Sedans Compactos
+1.412,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,3,SUV
+1.340,Automoveis,HONDA,CITY_HATCH,,,,,2023,3,Hatch Pequenos
+1.249,Automoveis,HONDA,CITY,,,,,2023,3,Sedans Compactos
+932,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2023,3,Sedans Compactos
+855,Automoveis,VW,TAOS,,,,,2023,3,SUV
+741,Automoveis,NISSAN,VERSA,,,,,2023,3,Sedans Pequenos
+741,Automoveis,VW,GOL,,,,,2023,3,Entrada
+658,Automoveis,RENAULT,SANDERO,,,,,2023,3,Hatch Pequenos
+653,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2023,3,SUV
+564,Automoveis,CITROEN,C4_CACTUS,,,,,2023,3,SUV
+551,Automoveis,BMW,320I,,,,,2023,3,Sedans Grandes
+504,Automoveis,VOLVO,XC60,,,,,2023,3,SUV
+479,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2023,3,SUV
+475,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2023,3,SUV
+453,Automoveis,NISSAN,SENTRA,,,,,2023,3,Sedans médios
+342,Automoveis,GM,EQUINOX,,,,,2023,3,SUV
+258,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2023,3,SUV
+245,Automoveis,BMW,X1,,,,,2023,3,SUV
+240,Automoveis,RENAULT,LOGAN,,,,,2023,3,Sedans Pequenos
+228,Automoveis,PORSCHE,MACAN,,,,,2023,3,SUV
+210,Automoveis,GM,TRAILBLAZER,,,,,2023,3,SUV
+9.935,Comercial,FIAT,STRADA,,,,,2023,3,Pick-up's Pequenas
+5.607,Comercial,FIAT,TORO,,,,,2023,3,Pick-up's Grandes
+4.362,Comercial,TOYOTA,HILUX,,,,,2023,3,Pick-up's Grandes
+3.988,Comercial,GM,MONTANA,,,,,2023,3,Pick-up's Pequenas
+2.701,Comercial,GM,S10,,,,,2023,3,Pick-up's Grandes
+2.637,Comercial,VW,SAVEIRO,,,,,2023,3,Pick-up's Pequenas
+1.978,Comercial,FORD,RANGER,,,,,2023,3,Pick-up's Grandes
+1.634,Comercial,FIAT,FIORINO,,,,,2023,3,Furgões Pequenos
+1.208,Comercial,RENAULT,OROCH,,,,,2023,3,Pick-up's Grandes
+952,Comercial,MITSUBISHI,L200,,,,,2023,3,Pick-up's Grandes
+789,Comercial,RENAULT,MASTER,,,,,2023,3,Furgões
+601,Comercial,VW,AMAROK,,,,,2023,3,Pick-up's Grandes
+571,Comercial,NISSAN,FRONTIER,,,,,2023,3,Pick-up's Grandes
+553,Comercial,RAM,3500,,,,,2023,3,Pick-up's Grandes
+378,Comercial,FIAT,SCUDO,,,,,2023,3,Furgões
+337,Comercial,FORD,TRANSIT,,,,,2023,3,Furgões
+286,Comercial,KIA,K2500,,,,,2023,3,Furgões
+251,Comercial,RAM,CLASSIC,,,,,2023,3,Sedans Pequenos
+231,Comercial,CITROEN,JUMPY,,,,,2023,3,Furgões
+224,Comercial,VW,MAN/EXPRESS,,,,,2023,3,Caminhão
+191,Comercial,RAM,2500,,,,,2023,3,Pick-up's Grandes
+176,Comercial,RAM,1500,,,,,2023,3,Pick-up's Grandes
+157,Comercial,M.BENZ,SPRINTER 315,,,,,2023,3,Furgões
+154,Comercial,PEUGEOT,EXPERT,,,,,2023,3,Furgões
+125,Comercial,IVECO,DAILY,,,,,2023,3,Furgões
+85,Comercial,PEUGEOT,PARTNER,,,,,2023,3,Furgões Pequenos
+80,Comercial,FORD,MAVERICK,,,,,2023,3,Pick-up's Grandes
+70,Comercial,EFFA,V21,,,,,2023,3,Caminhão
+46,Comercial,EFFA,V22,,,,,2023,3,Caminhão
+15,Comercial,IVECO,DAILY 30-130,,,,,2023,3,Caminhão
+11,Comercial,PEUGEOT,BOXER,,,,,2023,3,Furgões
+9,Comercial,JEEP,GLADIATOR,,,,,2023,3,Pick-up's Grandes
+7,Comercial,FORD,F150,,,,,2023,3,Pick-up's Grandes
+7,Comercial,EFFA,V25,,,,,2023,3,Furgões
+5,Comercial,CITROEN,JUMPER,,,,,2023,3,Furgões
+4,Comercial,M.BENZ,SPRINTER,,,,,2023,3,Furgões
+4,Comercial,M.BENZ,SPRINTER 517,,,,,2023,3,Furgões
+4,Comercial,BYD,T3,,,,,2023,3,Furgões
+3,Comercial,FIAT,DUCATO,,,,,2023,3,Furgões
+3,Comercial,IVECO,DAILY 35-150,,,,,2023,3,Caminhão
+3,Comercial,M.BENZ,SPRINTER 416,,,,,2023,3,Furgões
+3,Comercial,VW,KOMBI,,,,,2023,3,Outros
+3,Comercial,FOTON,AUMARK 3.5-14DT,,,,,2023,3,Pick-up's Grandes
+2,Comercial,AGRALE,AGRALE MARRUA,,,,,2023,3,Pick-up's Grandes
+2,Comercial,M.BENZ,SPRINTER 314,,,,,2023,3,Furgões
+2,Comercial,TOYOTA,BANDEIRANTE,,,,,2023,3,Pick-up's Grandes
+1,Comercial,FORD,F250,,,,,2023,3,Pick-up's Grandes
+1,Comercial,GM,C10,,,,,2023,3,Pick-up's Grandes
+1,Comercial,GM,SILVERADO,,,,,2023,3, Pick-up's Grandes
+7.376,Automoveis,GM,ONIX,,,,,2023,4,Hatch Pequenos
+7.143,Automoveis,HYUNDAI,HB20,,,,,2023,4,Hatch Pequenos
+6.063,Automoveis,VW,POLO,,,,,2023,4,Hatch Pequenos
+5.475,Automoveis,FIAT,ARGO,,,,,2023,4,Hatch Pequenos
+5.295,Automoveis,GM,ONIX_PLUS,,,,,2023,4,Sedans Compactos
+4.898,Automoveis,JEEP,COMPASS,,,,,2023,4,SUV
+4.688,Automoveis,HONDA,HR-V,,,,,2023,4,SUV
+4.686,Automoveis,FIAT,MOBI,,,,,2023,4,Entrada
+4.660,Automoveis,HYUNDAI,CRETA,,,,,2023,4,SUV
+4.592,Automoveis,VW,T_CROSS,,,,,2023,4,SUV
+4.152,Automoveis,RENAULT,KWID,,,,,2023,4,Entrada
+4.078,Automoveis,GM,TRACKER,,,,,2023,4,SUV
+3.946,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,4,SUV
+3.702,Automoveis,VW,NIVUS,,,,,2023,4,SUV
+3.701,Automoveis,FIAT,CRONOS,,,,,2023,4,Sedans Pequenos
+3.504,Automoveis,FIAT,PULSE,,,,,2023,4,SUV
+3.261,Automoveis,TOYOTA,COROLLA,,,,,2023,4,Sedans médios
+3.219,Automoveis,JEEP,RENEGADE,,,,,2023,4,SUV
+3.055,Automoveis,NISSAN,KICKS,,,,,2023,4,SUV
+2.466,Automoveis,FIAT,FASTBACK,,,,,2023,4,SUV
+2.091,Automoveis,VW,VIRTUS,,,,,2023,4,Sedans Compactos
+1.965,Automoveis,CITROEN,C3,,,,,2023,4,Hatch Pequenos
+1.916,Automoveis,HYUNDAI,HB20S,,,,,2023,4,Sedans Pequenos
+1.901,Automoveis,PEUGEOT,208,,,,,2023,4,Hatch Pequenos
+1.835,Automoveis,JEEP,COMMANDER,,,,,2023,4,SUV
+1.818,Automoveis,TOYOTA,YARIS_HB,,,,,2023,4,Hatch Pequenos
+1.377,Automoveis,RENAULT,DUSTER,,,,,2023,4,SUV
+1.113,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,4,SUV
+1.084,Automoveis,GM,SPIN,,,,,2023,4,Grandcab
+964,Automoveis,HONDA,CITY,,,,,2023,4,Sedans Compactos
+891,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2023,4,Sedans Compactos
+867,Automoveis,HONDA,CITY_HATCH,,,,,2023,4,Hatch Pequenos
+792,Automoveis,VW,TAOS,,,,,2023,4,SUV
+632,Automoveis,NISSAN,VERSA,,,,,2023,4,Sedans Pequenos
+544,Automoveis,CAOA_CHERY,TIGGO_8,,,,,2023,4,SUV
+516,Automoveis,CAOA_CHERY,TIGGO_5X,,,,,2023,4,SUV
+450,Automoveis,NISSAN,SENTRA,,,,,2023,4,Sedans médios
+419,Automoveis,RENAULT,SANDERO,,,,,2023,4,Hatch Pequenos
+418,Automoveis,CAOA_CHERY,TIGGO_7,,,,,2023,4,SUV
+367,Automoveis,BMW,X1,,,,,2023,4,SUV
+344,Automoveis,CITROEN,C4_CACTUS,,,,,2023,4,SUV
+336,Automoveis,BMW,320I,,,,,2023,4,Sedans Grandes
+318,Automoveis,VW,GOL,,,,,2023,4,Entrada
+292,Automoveis,GM,EQUINOX,,,,,2023,4,SUV
+231,Automoveis,GM,TRAILBLAZER,,,,,2023,4,SUV
+206,Automoveis,MITSUBISHI,ECLIPSE_CROSS,,,,,2023,4,SUV
+185,Automoveis,AUDI,Q5,,,,,2023,4,SUV
+157,Automoveis,VOLVO,XC60,,,,,2023,4,SUV
+149,Automoveis,PORSCHE,MACAN,,,,,2023,4,SUV
+145,Automoveis,PORSCHE,CAYENNE,,,,,2023,4,SUV
+8.051,Comercial,FIAT,STRADA,,,,,2023,4,Pick-up's Pequenas
+3.812,Comercial,FIAT,TORO,,,,,2023,4,Pick-up's Grandes
+3.199,Comercial,TOYOTA,HILUX,,,,,2023,4,Pick-up's Grandes
+3.152,Comercial,VW,SAVEIRO,,,,,2023,4,Pick-up's Pequenas
+3.087,Comercial,GM,MONTANA,,,,,2023,4,Pick-up's Pequenas
+2.752,Comercial,GM,S10,,,,,2023,4,Pick-up's Grandes
+1.374,Comercial,FIAT,FIORINO,,,,,2023,4,Furgões Pequenos
+1.361,Comercial,FORD,RANGER,,,,,2023,4,Pick-up's Grandes
+1.158,Comercial,RENAULT,OROCH,,,,,2023,4,Pick-up's Grandes
+887,Comercial,RENAULT,MASTER,,,,,2023,4,Furgões
+810,Comercial,MITSUBISHI,L200,,,,,2023,4,Pick-up's Grandes
+716,Comercial,VW,AMAROK,,,,,2023,4,Pick-up's Grandes
+550,Comercial,RAM,3500,,,,,2023,4,Pick-up's Grandes
+452,Comercial,NISSAN,FRONTIER,,,,,2023,4,Pick-up's Grandes
+307,Comercial,FIAT,SCUDO,,,,,2023,4,Furgões
+286,Comercial,FORD,TRANSIT,,,,,2023,4,Furgões
+194,Comercial,KIA,K2500,,,,,2023,4,Furgões
+169,Comercial,FORD,MAVERICK,,,,,2023,4,Pick-up's Grandes
+168,Comercial,CITROEN,JUMPY,,,,,2023,4,Furgões
+159,Comercial,VW,MAN/EXPRESS,,,,,2023,4,Caminhão
+134,Comercial,M.BENZ,SPRINTER 315,,,,,2023,4,Furgões
+129,Comercial,RAM,CLASSIC,,,,,2023,4,Sedans Pequenos
+117,Comercial,IVECO,DAILY,,,,,2023,4,Furgões
+82,Comercial,RAM,2500,,,,,2023,4,Pick-up's Grandes
+81,Comercial,RAM,1500,,,,,2023,4,Pick-up's Grandes
+76,Comercial,PEUGEOT,EXPERT,,,,,2023,4,Furgões
+71,Comercial,PEUGEOT,PARTNER,,,,,2023,4,Furgões Pequenos
+59,Comercial,EFFA,V21,,,,,2023,4,Caminhão
+28,Comercial,FIAT,DUCATO,,,,,2023,4,Furgões
+28,Comercial,EFFA,V22,,,,,2023,4,Caminhão
+25,Comercial,KIA,UK2500,,,,,2023,4,Caminhão
+16,Comercial,JEEP,GLADIATOR,,,,,2023,4,Pick-up's Grandes
+15,Comercial,FORD,F150,,,,,2023,4,Pick-up's Grandes
+15,Comercial,IVECO,DAILY 30-130,,,,,2023,4,Caminhão
+12,Comercial,PEUGEOT,BOXER,,,,,2023,4,Furgões
+11,Comercial,M.BENZ,SPRINTER,,,,,2023,4,Furgões
+8,Comercial,BYD,T3,,,,,2023,4,Furgões
+5,Comercial,CITROEN,JUMPER,,,,,2023,4,Furgões
+4,Comercial,M.BENZ,SPRINTER 416,,,,,2023,4,Furgões
+4,Comercial,VW,KOMBI,,,,,2023,4,Outros
+4,Comercial,EFFA,V25,,,,,2023,4,Furgões
+3,Comercial,JAC,EJV5.5,,,,,2023,4,Furgões
+2,Comercial,GMC,HUMMER EV EDITION 1,,,,,2023,4,Pick-up's Grandes
+2,Comercial,HYUNDAI,HR,,,,,2023,4,Caminhão
+2,Comercial,IVECO,DAILY 35-150,,,,,2023,4,Caminhão
+2,Comercial,IVECO,DAILY 5516,,,,,2023,4,Caminhão
+2,Comercial,M.BENZ,SPRINTER 417,,,,,2023,4,Furgões
+2,Comercial,M.BENZ,SPRINTER 517,,,,,2023,4,Furgões
+2,Comercial,JAC,IEV750,,,,,2023,4,Furgões
+1,Comercial,GM,C10,,,,,2023,4,Pick-up's Grandes
