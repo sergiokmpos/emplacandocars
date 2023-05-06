@@ -983,37 +983,37 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 1,Comercial,TOYOTA,RIBEIRAUTO,,,,,2023,2,Outros
 1,Comercial,TOYOTA,TUNDRA,,,,,2023,2,Outros
 1,Comercial,JAC,IEV750,,,,,2023,2,Outros
-8.363,Automoveis,HYUNDAI,HB20,,,,,2023,3,Hatch Pequenos
-8.283,Automoveis,GM,ONIX,,,,,2023,3,Hatch Pequenos
+8363,Automoveis,HYUNDAI,HB20,,,,,2023,3,Hatch Pequenos
+8283,Automoveis,GM,ONIX,,,,,2023,3,Hatch Pequenos
 8197,Automoveis,VW,POLO,,,,,2023,3,Hatch Pequenos
-7.104,Automoveis,GM,ONIX_PLUS,,,,,2023,3,Sedans Compactos
-6.988,Automoveis,JEEP,COMPASS,,,,,2023,3,SUV
-6.704,Automoveis,RENAULT,KWID,,,,,2023,3,Entrada
-6.384,Automoveis,FIAT,MOBI,,,,,2023,3,Entrada
-6.171,Automoveis,FIAT,ARGO,,,,,2023,3,Hatch Pequenos
-5.851,Automoveis,HYUNDAI,CRETA,,,,,2023,3,SUV
-5.431,Automoveis,GM,TRACKER,,,,,2023,3,SUV
-5.420,Automoveis,VW,T_CROSS,,,,,2023,3,SUV
-4.844,Automoveis,NISSAN,KICKS,,,,,2023,3,SUV
-4.674,Automoveis,JEEP,RENEGADE,,,,,2023,3,SUV
-4.511,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,3,SUV
-4.276,Automoveis,FIAT,PULSE,,,,,2023,3,SUV
-4.063,Automoveis,HONDA,HR-V,,,,,2023,3,SUV
-3.865,Automoveis,TOYOTA,COROLLA,,,,,2023,3,Sedans médios
-3.605,Automoveis,FIAT,FASTBACK,,,,,2023,3,SUV
-3.442,Automoveis,FIAT,CRONOS,,,,,2023,3,Sedans Pequenos
-3.210,Automoveis,VW,NIVUS,,,,,2023,3,SUV
-2.522,Automoveis,JEEP,COMMANDER,,,,,2023,3,SUV
-2.101,Automoveis,PEUGEOT,208,,,,,2023,3,Hatch Pequenos
-2.035,Automoveis,CITROEN,C3,,,,,2023,3,Hatch Pequenos
-2.031,Automoveis,RENAULT,DUSTER,,,,,2023,3,SUV
-2.025,Automoveis,HYUNDAI,HB20S,,,,,2023,3,Sedans Pequenos
-2.016,Automoveis,TOYOTA,YARIS_HB,,,,,2023,3,Hatch Pequenos
-1.781,Automoveis,GM,SPIN,,,,,2023,3,Grandcab
-1.562,Automoveis,VW,VIRTUS,,,,,2023,3,Sedans Compactos
-1.412,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,3,SUV
-1.340,Automoveis,HONDA,CITY_HATCH,,,,,2023,3,Hatch Pequenos
-1.249,Automoveis,HONDA,CITY,,,,,2023,3,Sedans Compactos
+7104,Automoveis,GM,ONIX_PLUS,,,,,2023,3,Sedans Compactos
+6988,Automoveis,JEEP,COMPASS,,,,,2023,3,SUV
+6704,Automoveis,RENAULT,KWID,,,,,2023,3,Entrada
+6384,Automoveis,FIAT,MOBI,,,,,2023,3,Entrada
+6171,Automoveis,FIAT,ARGO,,,,,2023,3,Hatch Pequenos
+5851,Automoveis,HYUNDAI,CRETA,,,,,2023,3,SUV
+5431,Automoveis,GM,TRACKER,,,,,2023,3,SUV
+5420,Automoveis,VW,T_CROSS,,,,,2023,3,SUV
+4844,Automoveis,NISSAN,KICKS,,,,,2023,3,SUV
+4674,Automoveis,JEEP,RENEGADE,,,,,2023,3,SUV
+4511,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,3,SUV
+4276,Automoveis,FIAT,PULSE,,,,,2023,3,SUV
+4063,Automoveis,HONDA,HR-V,,,,,2023,3,SUV
+3865,Automoveis,TOYOTA,COROLLA,,,,,2023,3,Sedans médios
+3605,Automoveis,FIAT,FASTBACK,,,,,2023,3,SUV
+3442,Automoveis,FIAT,CRONOS,,,,,2023,3,Sedans Pequenos
+3210,Automoveis,VW,NIVUS,,,,,2023,3,SUV
+2522,Automoveis,JEEP,COMMANDER,,,,,2023,3,SUV
+2101,Automoveis,PEUGEOT,208,,,,,2023,3,Hatch Pequenos
+2035,Automoveis,CITROEN,C3,,,,,2023,3,Hatch Pequenos
+2031,Automoveis,RENAULT,DUSTER,,,,,2023,3,SUV
+2025,Automoveis,HYUNDAI,HB20S,,,,,2023,3,Sedans Pequenos
+2016,Automoveis,TOYOTA,YARIS_HB,,,,,2023,3,Hatch Pequenos
+1781,Automoveis,GM,SPIN,,,,,2023,3,Grandcab
+1562,Automoveis,VW,VIRTUS,,,,,2023,3,Sedans Compactos
+1412,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,3,SUV
+1340,Automoveis,HONDA,CITY_HATCH,,,,,2023,3,Hatch Pequenos
+1249,Automoveis,HONDA,CITY,,,,,2023,3,Sedans Compactos
 932,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2023,3,Sedans Compactos
 855,Automoveis,VW,TAOS,,,,,2023,3,SUV
 741,Automoveis,NISSAN,VERSA,,,,,2023,3,Sedans Pequenos
@@ -1032,15 +1032,15 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 240,Automoveis,RENAULT,LOGAN,,,,,2023,3,Sedans Pequenos
 228,Automoveis,PORSCHE,MACAN,,,,,2023,3,SUV
 210,Automoveis,GM,TRAILBLAZER,,,,,2023,3,SUV
-9.935,Comercial,FIAT,STRADA,,,,,2023,3,Pick-up's Pequenas
-5.607,Comercial,FIAT,TORO,,,,,2023,3,Pick-up's Grandes
-4.362,Comercial,TOYOTA,HILUX,,,,,2023,3,Pick-up's Grandes
-3.988,Comercial,GM,MONTANA,,,,,2023,3,Pick-up's Pequenas
-2.701,Comercial,GM,S10,,,,,2023,3,Pick-up's Grandes
-2.637,Comercial,VW,SAVEIRO,,,,,2023,3,Pick-up's Pequenas
-1.978,Comercial,FORD,RANGER,,,,,2023,3,Pick-up's Grandes
-1.634,Comercial,FIAT,FIORINO,,,,,2023,3,Furgões Pequenos
-1.208,Comercial,RENAULT,OROCH,,,,,2023,3,Pick-up's Grandes
+9935,Comercial,FIAT,STRADA,,,,,2023,3,Pick-up's Pequenas
+5607,Comercial,FIAT,TORO,,,,,2023,3,Pick-up's Grandes
+4362,Comercial,TOYOTA,HILUX,,,,,2023,3,Pick-up's Grandes
+3988,Comercial,GM,MONTANA,,,,,2023,3,Pick-up's Pequenas
+2701,Comercial,GM,S10,,,,,2023,3,Pick-up's Grandes
+2637,Comercial,VW,SAVEIRO,,,,,2023,3,Pick-up's Pequenas
+1978,Comercial,FORD,RANGER,,,,,2023,3,Pick-up's Grandes
+1634,Comercial,FIAT,FIORINO,,,,,2023,3,Furgões Pequenos
+1208,Comercial,RENAULT,OROCH,,,,,2023,3,Pick-up's Grandes
 952,Comercial,MITSUBISHI,L200,,,,,2023,3,Pick-up's Grandes
 789,Comercial,RENAULT,MASTER,,,,,2023,3,Furgões
 601,Comercial,VW,AMAROK,,,,,2023,3,Pick-up's Grandes
@@ -1054,7 +1054,7 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 224,Comercial,VW,MAN/EXPRESS,,,,,2023,3,Caminhão
 191,Comercial,RAM,2500,,,,,2023,3,Pick-up's Grandes
 176,Comercial,RAM,1500,,,,,2023,3,Pick-up's Grandes
-157,Comercial,M.BENZ,SPRINTER 315,,,,,2023,3,Furgões
+157,Comercial,MBENZ,SPRINTER 315,,,,,2023,3,Furgões
 154,Comercial,PEUGEOT,EXPERT,,,,,2023,3,Furgões
 125,Comercial,IVECO,DAILY,,,,,2023,3,Furgões
 85,Comercial,PEUGEOT,PARTNER,,,,,2023,3,Furgões Pequenos
@@ -1067,49 +1067,49 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 7,Comercial,FORD,F150,,,,,2023,3,Pick-up's Grandes
 7,Comercial,EFFA,V25,,,,,2023,3,Furgões
 5,Comercial,CITROEN,JUMPER,,,,,2023,3,Furgões
-4,Comercial,M.BENZ,SPRINTER,,,,,2023,3,Furgões
-4,Comercial,M.BENZ,SPRINTER 517,,,,,2023,3,Furgões
+4,Comercial,MBENZ,SPRINTER,,,,,2023,3,Furgões
+4,Comercial,MBENZ,SPRINTER 517,,,,,2023,3,Furgões
 4,Comercial,BYD,T3,,,,,2023,3,Furgões
 3,Comercial,FIAT,DUCATO,,,,,2023,3,Furgões
 3,Comercial,IVECO,DAILY 35-150,,,,,2023,3,Caminhão
-3,Comercial,M.BENZ,SPRINTER 416,,,,,2023,3,Furgões
+3,Comercial,MBENZ,SPRINTER 416,,,,,2023,3,Furgões
 3,Comercial,VW,KOMBI,,,,,2023,3,Outros
-3,Comercial,FOTON,AUMARK 3.5-14DT,,,,,2023,3,Pick-up's Grandes
+3,Comercial,FOTON,AUMARK 35-14DT,,,,,2023,3,Pick-up's Grandes
 2,Comercial,AGRALE,AGRALE MARRUA,,,,,2023,3,Pick-up's Grandes
-2,Comercial,M.BENZ,SPRINTER 314,,,,,2023,3,Furgões
+2,Comercial,MBENZ,SPRINTER 314,,,,,2023,3,Furgões
 2,Comercial,TOYOTA,BANDEIRANTE,,,,,2023,3,Pick-up's Grandes
 1,Comercial,FORD,F250,,,,,2023,3,Pick-up's Grandes
 1,Comercial,GM,C10,,,,,2023,3,Pick-up's Grandes
 1,Comercial,GM,SILVERADO,,,,,2023,3, Pick-up's Grandes
-7.376,Automoveis,GM,ONIX,,,,,2023,4,Hatch Pequenos
-7.143,Automoveis,HYUNDAI,HB20,,,,,2023,4,Hatch Pequenos
-6.063,Automoveis,VW,POLO,,,,,2023,4,Hatch Pequenos
-5.475,Automoveis,FIAT,ARGO,,,,,2023,4,Hatch Pequenos
-5.295,Automoveis,GM,ONIX_PLUS,,,,,2023,4,Sedans Compactos
-4.898,Automoveis,JEEP,COMPASS,,,,,2023,4,SUV
-4.688,Automoveis,HONDA,HR-V,,,,,2023,4,SUV
-4.686,Automoveis,FIAT,MOBI,,,,,2023,4,Entrada
-4.660,Automoveis,HYUNDAI,CRETA,,,,,2023,4,SUV
-4.592,Automoveis,VW,T_CROSS,,,,,2023,4,SUV
-4.152,Automoveis,RENAULT,KWID,,,,,2023,4,Entrada
-4.078,Automoveis,GM,TRACKER,,,,,2023,4,SUV
-3.946,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,4,SUV
-3.702,Automoveis,VW,NIVUS,,,,,2023,4,SUV
-3.701,Automoveis,FIAT,CRONOS,,,,,2023,4,Sedans Pequenos
-3.504,Automoveis,FIAT,PULSE,,,,,2023,4,SUV
-3.261,Automoveis,TOYOTA,COROLLA,,,,,2023,4,Sedans médios
-3.219,Automoveis,JEEP,RENEGADE,,,,,2023,4,SUV
-3.055,Automoveis,NISSAN,KICKS,,,,,2023,4,SUV
-2.466,Automoveis,FIAT,FASTBACK,,,,,2023,4,SUV
-2.091,Automoveis,VW,VIRTUS,,,,,2023,4,Sedans Compactos
-1.965,Automoveis,CITROEN,C3,,,,,2023,4,Hatch Pequenos
-1.916,Automoveis,HYUNDAI,HB20S,,,,,2023,4,Sedans Pequenos
-1.901,Automoveis,PEUGEOT,208,,,,,2023,4,Hatch Pequenos
-1.835,Automoveis,JEEP,COMMANDER,,,,,2023,4,SUV
-1.818,Automoveis,TOYOTA,YARIS_HB,,,,,2023,4,Hatch Pequenos
-1.377,Automoveis,RENAULT,DUSTER,,,,,2023,4,SUV
-1.113,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,4,SUV
-1.084,Automoveis,GM,SPIN,,,,,2023,4,Grandcab
+7376,Automoveis,GM,ONIX,,,,,2023,4,Hatch Pequenos
+7143,Automoveis,HYUNDAI,HB20,,,,,2023,4,Hatch Pequenos
+6063,Automoveis,VW,POLO,,,,,2023,4,Hatch Pequenos
+5475,Automoveis,FIAT,ARGO,,,,,2023,4,Hatch Pequenos
+5295,Automoveis,GM,ONIX_PLUS,,,,,2023,4,Sedans Compactos
+4898,Automoveis,JEEP,COMPASS,,,,,2023,4,SUV
+4688,Automoveis,HONDA,HR-V,,,,,2023,4,SUV
+4686,Automoveis,FIAT,MOBI,,,,,2023,4,Entrada
+4660,Automoveis,HYUNDAI,CRETA,,,,,2023,4,SUV
+4592,Automoveis,VW,T_CROSS,,,,,2023,4,SUV
+4152,Automoveis,RENAULT,KWID,,,,,2023,4,Entrada
+4078,Automoveis,GM,TRACKER,,,,,2023,4,SUV
+3946,Automoveis,TOYOTA,COROLLA_CROSS,,,,,2023,4,SUV
+3702,Automoveis,VW,NIVUS,,,,,2023,4,SUV
+3701,Automoveis,FIAT,CRONOS,,,,,2023,4,Sedans Pequenos
+3504,Automoveis,FIAT,PULSE,,,,,2023,4,SUV
+3261,Automoveis,TOYOTA,COROLLA,,,,,2023,4,Sedans médios
+3219,Automoveis,JEEP,RENEGADE,,,,,2023,4,SUV
+3055,Automoveis,NISSAN,KICKS,,,,,2023,4,SUV
+2466,Automoveis,FIAT,FASTBACK,,,,,2023,4,SUV
+2091,Automoveis,VW,VIRTUS,,,,,2023,4,Sedans Compactos
+1965,Automoveis,CITROEN,C3,,,,,2023,4,Hatch Pequenos
+1916,Automoveis,HYUNDAI,HB20S,,,,,2023,4,Sedans Pequenos
+1901,Automoveis,PEUGEOT,208,,,,,2023,4,Hatch Pequenos
+1835,Automoveis,JEEP,COMMANDER,,,,,2023,4,SUV
+1818,Automoveis,TOYOTA,YARIS_HB,,,,,2023,4,Hatch Pequenos
+1377,Automoveis,RENAULT,DUSTER,,,,,2023,4,SUV
+1113,Automoveis,TOYOTA,HILUX_SW4,,,,,2023,4,SUV
+1084,Automoveis,GM,SPIN,,,,,2023,4,Grandcab
 964,Automoveis,HONDA,CITY,,,,,2023,4,Sedans Compactos
 891,Automoveis,TOYOTA,YARIS_SEDAN,,,,,2023,4,Sedans Compactos
 867,Automoveis,HONDA,CITY_HATCH,,,,,2023,4,Hatch Pequenos
@@ -1131,15 +1131,15 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 157,Automoveis,VOLVO,XC60,,,,,2023,4,SUV
 149,Automoveis,PORSCHE,MACAN,,,,,2023,4,SUV
 145,Automoveis,PORSCHE,CAYENNE,,,,,2023,4,SUV
-8.051,Comercial,FIAT,STRADA,,,,,2023,4,Pick-up's Pequenas
-3.812,Comercial,FIAT,TORO,,,,,2023,4,Pick-up's Grandes
-3.199,Comercial,TOYOTA,HILUX,,,,,2023,4,Pick-up's Grandes
-3.152,Comercial,VW,SAVEIRO,,,,,2023,4,Pick-up's Pequenas
-3.087,Comercial,GM,MONTANA,,,,,2023,4,Pick-up's Pequenas
-2.752,Comercial,GM,S10,,,,,2023,4,Pick-up's Grandes
-1.374,Comercial,FIAT,FIORINO,,,,,2023,4,Furgões Pequenos
-1.361,Comercial,FORD,RANGER,,,,,2023,4,Pick-up's Grandes
-1.158,Comercial,RENAULT,OROCH,,,,,2023,4,Pick-up's Grandes
+8051,Comercial,FIAT,STRADA,,,,,2023,4,Pick-up's Pequenas
+3812,Comercial,FIAT,TORO,,,,,2023,4,Pick-up's Grandes
+3199,Comercial,TOYOTA,HILUX,,,,,2023,4,Pick-up's Grandes
+3152,Comercial,VW,SAVEIRO,,,,,2023,4,Pick-up's Pequenas
+3087,Comercial,GM,MONTANA,,,,,2023,4,Pick-up's Pequenas
+2752,Comercial,GM,S10,,,,,2023,4,Pick-up's Grandes
+1374,Comercial,FIAT,FIORINO,,,,,2023,4,Furgões Pequenos
+1361,Comercial,FORD,RANGER,,,,,2023,4,Pick-up's Grandes
+1158,Comercial,RENAULT,OROCH,,,,,2023,4,Pick-up's Grandes
 887,Comercial,RENAULT,MASTER,,,,,2023,4,Furgões
 810,Comercial,MITSUBISHI,L200,,,,,2023,4,Pick-up's Grandes
 716,Comercial,VW,AMAROK,,,,,2023,4,Pick-up's Grandes
@@ -1151,7 +1151,7 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 169,Comercial,FORD,MAVERICK,,,,,2023,4,Pick-up's Grandes
 168,Comercial,CITROEN,JUMPY,,,,,2023,4,Furgões
 159,Comercial,VW,MAN/EXPRESS,,,,,2023,4,Caminhão
-134,Comercial,M.BENZ,SPRINTER 315,,,,,2023,4,Furgões
+134,Comercial,MBENZ,SPRINTER 315,,,,,2023,4,Furgões
 129,Comercial,RAM,CLASSIC,,,,,2023,4,Sedans Pequenos
 117,Comercial,IVECO,DAILY,,,,,2023,4,Furgões
 82,Comercial,RAM,2500,,,,,2023,4,Pick-up's Grandes
@@ -1166,18 +1166,18 @@ Emplacados,Categoria,Fabricante,Modelo,Preco,SalarioMinimo,Dolar,TaxaJuros,Ano,M
 15,Comercial,FORD,F150,,,,,2023,4,Pick-up's Grandes
 15,Comercial,IVECO,DAILY 30-130,,,,,2023,4,Caminhão
 12,Comercial,PEUGEOT,BOXER,,,,,2023,4,Furgões
-11,Comercial,M.BENZ,SPRINTER,,,,,2023,4,Furgões
+11,Comercial,MBENZ,SPRINTER,,,,,2023,4,Furgões
 8,Comercial,BYD,T3,,,,,2023,4,Furgões
 5,Comercial,CITROEN,JUMPER,,,,,2023,4,Furgões
-4,Comercial,M.BENZ,SPRINTER 416,,,,,2023,4,Furgões
+4,Comercial,MBENZ,SPRINTER 416,,,,,2023,4,Furgões
 4,Comercial,VW,KOMBI,,,,,2023,4,Outros
 4,Comercial,EFFA,V25,,,,,2023,4,Furgões
-3,Comercial,JAC,EJV5.5,,,,,2023,4,Furgões
+3,Comercial,JAC,EJV55,,,,,2023,4,Furgões
 2,Comercial,GMC,HUMMER EV EDITION 1,,,,,2023,4,Pick-up's Grandes
 2,Comercial,HYUNDAI,HR,,,,,2023,4,Caminhão
 2,Comercial,IVECO,DAILY 35-150,,,,,2023,4,Caminhão
 2,Comercial,IVECO,DAILY 5516,,,,,2023,4,Caminhão
-2,Comercial,M.BENZ,SPRINTER 417,,,,,2023,4,Furgões
-2,Comercial,M.BENZ,SPRINTER 517,,,,,2023,4,Furgões
+2,Comercial,MBENZ,SPRINTER 417,,,,,2023,4,Furgões
+2,Comercial,MBENZ,SPRINTER 517,,,,,2023,4,Furgões
 2,Comercial,JAC,IEV750,,,,,2023,4,Furgões
 1,Comercial,GM,C10,,,,,2023,4,Pick-up's Grandes
