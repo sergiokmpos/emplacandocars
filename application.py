@@ -95,8 +95,8 @@ for i in df['Fabricante'].unique():
 
 
     def convert_to_text(month):
-        lista1 = ['Todos', 'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro',
-                  'Outubro', 'Novembro', 'Dezembro']
+        lista1 = ['Todos', 'Jan', 'Fev', 'Mar', 'AbR', 'Mai', 'Jun', 'Jul', 'Agos', 'Set',
+                  'Out', 'Nov', 'Dez']
         return lista1[month]
 
 # =========  Layout  =========== #
@@ -157,20 +157,28 @@ app.layout = dbc.Container(children=[
                     #                     className='dbc')])),
                     ]),
                     dbc.Row([
-                        dbc.Col(dbc.Row(('📅 Mes'), ),),
-                        dbc.Col([dcc.Dropdown([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], value=0, id='MesDropdown',
-                                              className='dbc', clearable=False)]),
+                        dbc.Col([dbc.Row(('📅 Mes'), ),], lg=2),
+                        dbc.Col([dcc.Dropdown([0,1,2,3,4,5,6,7,8,9,10,11,12], value=0, id='MesDropdown',
+                                              className='dbc', clearable=False)], lg=3),
                         dbc.Col([html.H1(id='month-select', style={'text-align': 'center', 'margin-top': '0px'},
                                              className='dbc')]),
+                        #dbc.Col([dbc.Row(('🏭'), ),],lg=4),
+
+
                         #dbc.Col([dcc.Dropdown(['Ultimo Ano'], 'Ultimo Ano', id='AnoDropdown', className='dbc',
                         #                  disabled=True, clearable=False)]),
 
                     ], className='g-2 my-auto',),
+                dbc.Row([
+                    dbc.Col(dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
+                                                          className='dbc', clearable=False)], ))),
+                    # optionHeight=75))
+                ]),
                     # dbc.Row(dcc.Dropdown([ '2021','2022','2023',], value='Ultimo Ano',className='dbc')),
                     dbc.Row([
-                    dbc.Col(dbc.Row(('🏭 Fabricante'),style={'margin-top': '7px'} ),),
-                    dbc.Col(dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
-                                                  className='dbc', clearable=False)]))),  # optionHeight=75))
+                    #dbc.Col(dbc.Row(('🏭 Fabricante'),style={'margin-top': '7px'} ),),
+                    #dbc.Col(dbc.Row(dbc.Col([dcc.Dropdown(options_Fabricante, value='Todas', id='FabricanteDropdown',
+                    #                              className='dbc', clearable=False)]))),  # optionHeight=75))
                     dbc.Row(dcc.Graph(id='graph3', className='dbc', config=config_graph)),
                     dbc.Row(dcc.Graph(id='graph4', className='dbc', config=config_graph)),
                     ]),
@@ -293,7 +301,7 @@ app.layout = dbc.Container(children=[
 
     ], className='g-2 my-auto', style={'margin-top': '7px'}),
 
-    html.Footer(dbc.Card(["EmplacandoCars 2023  - Dados de Fev/22 a Mar/23"],
+    html.Footer(dbc.Card(["EmplacandoCars 2023"],
                          style={'text-align': 'center', 'margin-top': '7px'})),
 
 ], fluid=True, style={"maxWidth": "100%", "heitht": "auto"})
@@ -389,10 +397,10 @@ def graph3(fabricante, toggle):
     mask = fabricante_filter(fabricante)
     df_3 = df_auto.loc[mask]
 
-    df_3 = df_3.groupby('Mes')['Emplacados'].sum().reset_index()
+    df_3 = df_3.groupby('Mes1')['Emplacados'].sum().reset_index()
     fig3 = go.Figure(go.Scatter(
-        x=df_3['Mes'], y=df_3['Emplacados'], mode='lines', fill='tonexty'))
-    fig3.add_annotation(text='🚘 Automoveis por Mes',
+        x=df_3['Mes1'], y=df_3['Emplacados'], mode='lines', fill='tonexty'))
+    fig3.add_annotation(text='🚘 Automoveis Maio22 a Abr23',
                         xref="paper", yref="paper",
                         font=dict(
                             size=15,
@@ -409,7 +417,8 @@ def graph3(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig3.update_layout(main_config, height=107, template=template)
+    fig3.update_layout(main_config, height=105, template=template,)
+    fig3.update_xaxes(showticklabels=False)
     return fig3
 
 
@@ -425,10 +434,10 @@ def graph4(fabricante, toggle):
     mask = fabricante_filter(fabricante)
     df_4 = df_com.loc[mask]
 
-    df_4 = df_4.groupby('Mes')['Emplacados'].sum().reset_index()
+    df_4 = df_4.groupby('Mes1')['Emplacados'].sum().reset_index()
     fig4 = go.Figure(go.Scatter(
-        x=df_4['Mes'], y=df_4['Emplacados'], mode='lines', fill='tonexty'))
-    fig4.add_annotation(text='🛻 Comerciais leves por Mes',
+        x=df_4['Mes1'], y=df_4['Emplacados'], mode='lines', fill='tonexty'))
+    fig4.add_annotation(text='🛻 Com Leve Maio22 a Abr23',
                         xref="paper", yref="paper",
                         font=dict(
                             size=15,
@@ -445,7 +454,8 @@ def graph4(fabricante, toggle):
                         align="center", bgcolor="rgba(0,0,0,0.8)",
                         x=0.05, y=0.25, showarrow=False)
 
-    fig4.update_layout(main_config, height=107, template=template)
+    fig4.update_layout(main_config, height=105, template=template)
+    fig4.update_xaxes(showticklabels=False)
 
     return fig4
 
@@ -573,13 +583,14 @@ def graph9(month, fabricante, toggle):
 def graph10(toggle):
     template = template_theme1 if toggle else template_theme2
 
-    df_10 = df.groupby(['Mes', 'Tipo'])['Emplacados'].sum().reset_index()
+    df_10 = df.groupby(['Mes1', 'Tipo'])['Emplacados'].sum().reset_index()
 
-    fig10 = px.line(df_10, y="Emplacados", x="Mes", color="Tipo")
+    fig10 = px.line(df_10, y="Emplacados", x="Mes1", color="Tipo")
 
     fig10.update_layout(main_config, yaxis={'title': 'Emplacados por tipo'}, xaxis={'title': None}, height=150,
                         template=template, legend={'traceorder': 'normal'}),
     fig10.update_layout(legend=dict(yanchor="top", y=1.0, xanchor="left", x=1.0, ))
+    fig10.update_xaxes(showticklabels=False)
     return fig10
 
 
