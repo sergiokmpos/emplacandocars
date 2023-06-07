@@ -95,7 +95,7 @@ for i in df['Fabricante'].unique():
 
 
     def convert_to_text(month):
-        lista1 = ['Todos', 'Jan_23', 'Fev_23', 'Mar_23', 'Abr_23', 'Mai_22', 'Jun_22', 'Jul_22', 'Ago_22', 'Set_22',
+        lista1 = ['Todos', 'Jan_23', 'Fev_23', 'Mar_23', 'Abr_23', 'Mai_23', 'Jun_22', 'Jul_22', 'Ago_22', 'Set_22',
                   'Out_22', 'Nov_22', 'Dez_22']
         return lista1[month]
 
