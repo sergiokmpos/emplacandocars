@@ -400,7 +400,7 @@ def graph3(fabricante, toggle):
     df_3 = df_3.groupby('Mes1')['Emplacados'].sum().reset_index()
     fig3 = go.Figure(go.Scatter(
         x=df_3['Mes1'], y=df_3['Emplacados'], mode='lines', fill='tonexty'))
-    fig3.add_annotation(text='🚘 Automoveis Maio22 a Abr23',
+    fig3.add_annotation(text='🚘 Automoveis Abr22 a Maio23',
                         xref="paper", yref="paper",
                         font=dict(
                             size=15,
@@ -437,7 +437,7 @@ def graph4(fabricante, toggle):
     df_4 = df_4.groupby('Mes1')['Emplacados'].sum().reset_index()
     fig4 = go.Figure(go.Scatter(
         x=df_4['Mes1'], y=df_4['Emplacados'], mode='lines', fill='tonexty'))
-    fig4.add_annotation(text='🛻 Com Leve Maio22 a Abr23',
+    fig4.add_annotation(text='🛻 Com Leve Abr22 a Maio23',
                         xref="paper", yref="paper",
                         font=dict(
                             size=15,
